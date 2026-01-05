@@ -9,12 +9,15 @@
 - [Quotes](#quotes)
 - [Top Countries](#top-countries)
 - [Browsers](#browsers)
+  - [Chrome Extensions](#chrome-extensions)
 - [Messengers](#messengers)
   - [Decentralize](#decentralize)
   - [Centralize](#centralize)
   - [P2P](#p2p)
 - [Cloud Storage](#cloud-storage)
 - [Email](#email)
+- [Accounts Managers](#accounts-managers)
+- [Code Editors](#code-editors)
 
 ## Quotes
 - *"Friends don’t spy; true friendship is about privacy, too."* - Stephen King
@@ -47,6 +50,18 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Firefox](https://www.mozilla.org/firefox) | Firefox is a fast, privacy-focused browser that is open-source and designed to give users control over their online experience. | N/A |
 | [Iridium](https://iridiumbrowser.de/) | Iridium Browser is a privacy-focused web browser that is based on Chromium. | N/A |
 | [Thorium](https://thorium.rocks/) | Thorium is a web browser based on Chromium with a strong focus on privacy and open-source principles. | N/A |
+
+### Chrome Extensions
+| Name | Description |
+| --- | --- |
+| [Privacy Badger](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) | Privacy Badger is a browser extension developed by the Electronic Frontier Foundation (EFF) that automatically blocks trackers that spy on your online activity. |
+| [Ghostery](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij) | Ghostery is a privacy and security-related browser extension that blocks trackers, ads, and other third-party content that compromises your online privacy. |
+| [Adblock Plus](https://chromewebstore.google.com/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en) | Adblock Plus (ABP) is one of the most popular ad-blocking browser extensions. It blocks ads and pop-ups on websites, including intrusive banner ads, video ads, and other unwanted content. |
+| [DuckDuckGo Essentials](https://chromewebstore.google.com/detail/duckduckgo-search-tracker/bkdgflcldnnnapblkhphbgpggdiikppg?hl=en) | DuckDuckGo Essentials is a privacy-focused browser extension that helps protect your privacy while browsing the web. |
+| [NoScript](https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm?hl=en) | NoScript is a browser extension that blocks all scripts (JavaScript, Java, Flash, and other potentially dangerous content) by default, allowing you to selectively allow trusted sources. |
+| [Decentraleyes](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj?hl=en) | Decentraleyes is a privacy extension that focuses on reducing reliance on third-party servers for delivering web resources like scripts, fonts, and stylesheets. |
+| [PixelBlock](https://chromewebstore.google.com/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem) | Gmail extension that blocks email tracking attempts used to detect when you open and read emails. PixelBlock displays a 'red eye' when it finds and blocks a tracking attempt inside of an email. |
+| [minerBlock](https://chromewebstore.google.com/detail/minerblock/dgcjdgkiclbfekoepomcjmifmgejhdga) | Blocks cryptocurrency miners all over the web. |
 
 ## Messengers
 ### Decentralize
@@ -91,9 +106,29 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Proton](https://protonmail.com/) | ProtonMail is a secure email provider that uses end-to-end encryption to ensure your emails are private and protected from unauthorized access. | <p align="center">🇨🇭</p> | Protonmail has tons of allegations regarding privacy, but it's still the best. - NCryptsion |
 | [Mailfence](https://mailfence.com/) | Mailfence is a secure email service that offers end-to-end encryption and a suite of privacy-focused tools, including calendar, contacts, and document storage. | <p align="center">🇧🇪</p> | N/A |
 | [Mailbox](https://mailbox.org/) | Mailbox.org is a secure email provider that offers encrypted communication, an intuitive interface, and a range of privacy-focused services, including file storage and calendar features. | <p align="center">🇩🇪</p> | N/A |
+| [Tuta](https://tuta.com/) | Tutanota is a secure email service offering end-to-end encryption for email communications and a strong commitment to privacy. | <p align="center">🇩🇪</p> | N/A |
 | [Soverin](https://soverin.com/) | Soverin is a secure email service focused on user privacy and independence. It provides encrypted email communication and offers a simple, no-tracking experience. | <p align="center">🇳🇱</p> | N/A |
 | [StartMail](https://www.startmail.com/) | StartMail is a privacy-focused email provider that offers strong encryption and the ability to send anonymous, self-destructing emails. | <p align="center">🇳🇱</p> | N/A |
-| [Tuta](https://tuta.com/) | Tutanota is a secure email service offering end-to-end encryption for email communications and a strong commitment to privacy. | <p align="center">🇩🇪</p> | N/A |
+
+## Accounts Managers
+| Name | Description | Comments |
+| --- | --- | --- |
+| [KeePassXC](https://keepassxc.org/) | KeePassXC is an open-source password manager that allows you to securely store and manage your passwords in an encrypted database. | The best for local accounts management. - NCryptsion |
+| [Bitwarden](https://bitwarden.com/) | Bitwarden is a widely-used, open-source password manager that stores your passwords in an encrypted vault. | N/A |
+| [Vaultwarden](https://github.com/dani-garcia/vaultwarden/) | Vaultwarden (formerly known as "bitwarden_rs") is a lightweight, self-hosted alternative to Bitwarden. | N/A |
+| [Passbolt](https://www.passbolt.com/) | Passbolt is an open-source password manager aimed at teams and businesses. It allows organizations to securely store, manage, and share passwords within a team environment. | Great for team-type accounts management. - NCryptsion |
+| [PSono](https://psono.com/) | PSono is a self-hosted, open-source password manager built with a strong emphasis on privacy and security. | N/A | 
+| [KeePass](https://keepass.info/) | KeePass is a free, open-source password manager that helps you securely store your passwords in an encrypted database. | N/A |
+| [Proton Pass](https://proton.me/pass) | Proton Pass is a password manager developed by Proton, the creators of ProtonMail. It is designed to offer the same level of privacy and security as Proton’s other services. | N/A |
+
+## Code Editors
+| Name | Description | Comments |
+| --- | --- | --- |
+| [VSCodium](https://vscodium.com/) | VSCodium is an open-source, community-driven version of Microsoft's Visual Studio Code (VSCode). While VSCode itself is free, it includes telemetry (data collection) that some users may not want. | N/A |
+| [Atom](https://atom.io/) | Atom is an open-source, customizable text editor developed by GitHub. It is designed to be a "hackable" editor, meaning that users can modify and extend its features to suit their needs. | N/A |
+| [Brackets](https://brackets.io/) | Brackets is an open-source, lightweight text editor focused on web development. It was designed with front-end developers in mind, offering features that streamline the process of building websites. | N/A |
+| [Notepad++](https://notepad-plus-plus.org/) | Notepad++ is a popular, open-source text editor for Windows that offers a lightweight alternative to more resource-heavy IDEs. It supports syntax highlighting for over 80 programming languages, and its simple interface makes it ideal for quick edits and scripting tasks. | N/A |
+| [Void Editor](https://voideditor.com/) | Void is an open source Cursor alternative. Write code with the best AI tools, use any model, and retain full control over your data. | N/A |
 
 <div align="center">
   <sub>This project is distributed under <a href="/LICENSE"><b>MIT License</b></a></sub>
