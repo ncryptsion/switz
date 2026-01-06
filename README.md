@@ -8,6 +8,7 @@
 # Contents
 - [Quotes](#quotes)
 - [Top Countries](#top-countries)
+- [2FA](#2fa)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
 - [Messengers](#messengers)
@@ -18,6 +19,9 @@
 - [Email](#email)
 - [Accounts Managers](#accounts-managers)
 - [Code Editors](#code-editors)
+- [Networks](#networks)
+- [VPN](#vpn)
+- [DNS](#dns)
 
 ## Quotes
 - *"Friends don’t spy; true friendship is about privacy, too."* - Stephen King
@@ -41,6 +45,16 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 9. **Ireland** - Key GDPR enforcer with massive fines on tech giants despite hosting them.
 1. **Netherlands** - High GDPR compliance focus and Uber-scale penalties.
 ​
+## 2FA
+| Name | Description |
+| --- | --- |
+| [Stratum](https://stratumauth.com/) | Stratum is a 2FA (two-factor authentication) app designed to provide an extra layer of security by generating one-time passwords for user authentication. |
+| [Aegis](https://getaegis.app/) | Aegis is an open-source 2FA app that offers secure authentication by generating time-based one-time passwords (TOTPs). |
+| [2FAS](https://2fas.com/) | 2FAS (Two-Factor Authentication System) is a simple, open-source 2FA app that works with a variety of services, providing secure authentication through TOTP or QR codes. | 
+| [Ente](https://ente.io/auth/) | Ente is a privacy-focused 2FA app that offers time-based one-time passwords. |
+| [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) | FreeOTP Plus is an open-source 2FA app that enhances the original FreeOTP by providing more features, like backup and multi-device support. |
+| [Owky](https://github.com/charlietango/owky) | Owky is a user-friendly 2FA app focused on providing seamless multi-account support. It generates time-based, one-time passcodes (TOTP) for various online platforms. |
+
 ## Browsers
 | Name | Description | Comments |
 | --- | --- | --- |
@@ -124,11 +138,38 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 ## Code Editors
 | Name | Description | Comments |
 | --- | --- | --- |
-| [VSCodium](https://vscodium.com/) | VSCodium is an open-source, community-driven version of Microsoft's Visual Studio Code (VSCode). While VSCode itself is free, it includes telemetry (data collection) that some users may not want. | N/A |
+| [VSCodium](https://vscodium.com/) | VSCodium is an open-source, community-driven version of Microsoft's Visual Studio Code (VSCode). While VSCode itself is free, it includes telemetry (data collection) that some users may not want. | The best, no exceptions. - NCryptsion |
 | [Atom](https://atom.io/) | Atom is an open-source, customizable text editor developed by GitHub. It is designed to be a "hackable" editor, meaning that users can modify and extend its features to suit their needs. | N/A |
 | [Brackets](https://brackets.io/) | Brackets is an open-source, lightweight text editor focused on web development. It was designed with front-end developers in mind, offering features that streamline the process of building websites. | N/A |
 | [Notepad++](https://notepad-plus-plus.org/) | Notepad++ is a popular, open-source text editor for Windows that offers a lightweight alternative to more resource-heavy IDEs. It supports syntax highlighting for over 80 programming languages, and its simple interface makes it ideal for quick edits and scripting tasks. | N/A |
 | [Void Editor](https://voideditor.com/) | Void is an open source Cursor alternative. Write code with the best AI tools, use any model, and retain full control over your data. | N/A |
+
+## Networks
+| Name | Description |
+| --- | --- |
+| [Tor](https://www.torproject.org/) | Tor is a privacy-focused network that anonymizes internet traffic by routing it through multiple volunteer-operated servers (or "nodes"). |
+| [ZeroNet](https://zeronet.io/) | ZeroNet is a decentralized network that allows users to create and host websites without needing centralized servers. |
+| [IPFS](https://about.ipfs.io/) | IPFS is a decentralized file storage and sharing network. It aims to make the web more distributed and resilient by using a peer-to-peer protocol. |
+| [I2P](https://geti2p.net/en/) | I2P is a privacy-focused network that provides anonymous communication. Unlike Tor, which is designed primarily for web browsing, I2P is intended for applications that require high levels of anonymity and security. |
+| [Hyphanet](https://www.hyphanet.org/) | Hyphanet is a lesser-known decentralized network that allows users to build private, secure, and censorship-resistant communication systems. |
+
+## VPN
+| Name | Description | Audited |
+| --- | --- | --- |
+| [Mullvad](https://mullvad.net/en) | Mullvad is a privacy-focused VPN service known for its strong commitment to anonymity. It doesn’t require personal information to sign up, users are simply assigned an anonymous account number. | <p align="center">✅</p>  |
+| [Windscribe](https://windscribe.com/) | Windscribe is a user-friendly VPN service with a strong focus on privacy. It offers both free and paid plans, with the free plan providing up to 10 GB of data per month. | <p align="center">✅</p>  |
+| [iVPN](https://www.ivpn.net/en/) | iVPN is a smaller, privacy-oriented VPN service that emphasizes strong security practices. | <p align="center">✅</p>  |
+| [Nym](https://nym.com/) | Nym is a privacy-focused network designed to provide secure, anonymous browsing by using a mix of VPN and onion routing technology. | <p align="center">✅</p> |
+| [ProtonVPN](https://protonvpn.com/) | ProtonVPN is created by the same team behind ProtonMail, emphasizing both privacy and security. | <p align="center">✅</p> |
+| [IPVanish](https://www.ipvanish.com/) | IPVanish is a well-established VPN service with a reputation for providing fast and secure connections. | <p align="center">✅</p> |
+
+## DNS
+| Name | Description | No-Logging |
+| --- | --- | --- |
+| [NextDNS](https://nextdns.io/) | NextDNS is a privacy-focused, customizable DNS service that offers advanced features such as content filtering, malware blocking, and ad-blocking. | <p align="center">✅</p> |
+| [Quad9](https://quad9.net/) | Quad9 is a security-focused DNS provider that prioritizes privacy and protection from malicious websites. | <p align="center">✅ (anonymous)</p> |
+| [DNS Watch](https://dns.watch/) | DNS Watch is a free, privacy-conscious DNS service that emphasizes unfiltered, uncensored internet access. | <p align="center">✅</p> |
+| [Uncensored DNS](https://uncensoreddns.org/) | Uncensored DNS is a DNS provider that aims to provide unrestricted and uncensored internet access. | <p align="center">✅</p> |
 
 <div align="center">
   <sub>This project is distributed under <a href="/LICENSE"><b>MIT License</b></a></sub>
