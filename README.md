@@ -11,6 +11,7 @@
 - [2FA](#2fa)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
+- [Search Engines](#search-engines)
 - [Messengers](#messengers)
   - [Decentralize](#decentralize)
   - [Centralize](#centralize)
@@ -76,6 +77,17 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Decentraleyes](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj?hl=en) | Decentraleyes is a privacy extension that focuses on reducing reliance on third-party servers for delivering web resources like scripts, fonts, and stylesheets. |
 | [PixelBlock](https://chromewebstore.google.com/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem) | Gmail extension that blocks email tracking attempts used to detect when you open and read emails. PixelBlock displays a 'red eye' when it finds and blocks a tracking attempt inside of an email. |
 | [minerBlock](https://chromewebstore.google.com/detail/minerblock/dgcjdgkiclbfekoepomcjmifmgejhdga) | Blocks cryptocurrency miners all over the web. |
+
+## Search Engines
+| Name | Description |
+| --- | --- |
+| [DuckDuckGo](https://duckduckgo.com/) | A privacy-focused search engine that does not track users or create personal profiles. It aggregates search results from various sources like Bing and its own web crawler to deliver unbiased and secure search results. |
+| [Brave](https://brave.com/search/) | A browser and search engine emphasizing privacy. It blocks trackers, ads, and third-party cookies by default. Brave Search offers privacy-focused results without collecting user data, and it's built on an open-source framework. |
+| [SearX](https://metasearx.com/) | An open-source, privacy-oriented metasearch engine that aggregates results from other search engines while not tracking users. It allows users to customize search sources and maintains a high level of anonymity. |
+| [Startpage](https://www.startpage.com/) | A privacy-centric search engine that provides Google search results without tracking or storing any personal data. Startpage acts as a proxy to Google, ensuring that users remain anonymous during searches. |
+| [Qwant](https://www.qwant.com/) | A European search engine that focuses on privacy and neutrality. It does not track users or use personal data for advertising. Qwant offers results from the web, news, social media, and shopping without profiling. |
+| [MetaGer](https://metager.org/) | A German privacy-friendly metasearch engine that does not track users. It combines results from major search engines and offers additional privacy features like anonymous browsing and encrypted search. |
+| [Swisscows](https://swisscows.com/en) | A Swiss-based privacy-focused search engine that emphasizes family-friendly content. It does not track user data and offers results with AI-based semantic search technology, offering more accurate results without any personal data collection. |
 
 ## Messengers
 ### Decentralize
