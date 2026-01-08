@@ -8,6 +8,7 @@
 # Contents
 - [Quotes](#quotes)
 - [Top Countries](#top-countries)
+- [Payments](#payments)
 - [2FA](#2fa)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
@@ -23,6 +24,7 @@
 - [Networks](#networks)
 - [VPN](#vpn)
 - [DNS](#dns)
+- [VPS](#vps)
 
 ## Quotes
 - *"Friends don’t spy; true friendship is about privacy, too."* - Stephen King
@@ -46,6 +48,12 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 9. **Ireland** - Key GDPR enforcer with massive fines on tech giants despite hosting them.
 1. **Netherlands** - High GDPR compliance focus and Uber-scale penalties.
 ​
+## Payments
+| Name | Description |
+| --- | --- |
+| [Monero](https://www.getmonero.org/) | Monero (XMR) is a privacy-focused cryptocurrency launched in 2014 as a fork of Bytecoin. It ensures anonymity by default for every transaction using ring signatures, stealth addresses, and RingCT to hide sender, receiver, and amount details. |
+| [Cash](https://en.wikipedia.org/wiki/Cash) | Literal physical cash, just be wise on how you want to transact to someone. |
+
 ## 2FA
 | Name | Description |
 | --- | --- |
@@ -182,6 +190,16 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Quad9](https://quad9.net/) | Quad9 is a security-focused DNS provider that prioritizes privacy and protection from malicious websites. | <p align="center">✅ (anonymous)</p> |
 | [DNS Watch](https://dns.watch/) | DNS Watch is a free, privacy-conscious DNS service that emphasizes unfiltered, uncensored internet access. | <p align="center">✅</p> |
 | [Uncensored DNS](https://uncensoreddns.org/) | Uncensored DNS is a DNS provider that aims to provide unrestricted and uncensored internet access. | <p align="center">✅</p> |
+
+## VPS
+| Name | Description |
+| --- | --- |
+| [Kyun](https://kyun.host/) | Kyun provides privacy-focused virtual private servers (VPS) that accept Monero payments and emphasize anonymous deployment without KYC requirements. |
+| [Black Host](https://black.host) | Black Host offers offshore, censorship-resistant hosting solutions designed for high anonymity, supporting privacy coins like Monero for payments. |
+| [Hiddence](https://hiddence.net/) | Hiddence specializes in secure, anonymous VPS hosting with features like encrypted storage and Monero-only billing to prevent tracking. |
+| [BitLaunch](https://bitlaunch.io/) | BitLaunch enables one-click deployment of privacy-centric VPS on providers worldwide, accepting Monero and prioritizing anti-censorship tools. |
+| [AnonVM](https://anonvm.wtf/?language=english) | AnonVM delivers virtual machines optimized for anonymity, with Tor integration and exclusive Monero support for fully untraceable cloud computing.
+ |
 
 <div align="center">
   <sub>This project is distributed under <a href="/LICENSE"><b>MIT License</b></a></sub>
