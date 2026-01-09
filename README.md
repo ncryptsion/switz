@@ -24,7 +24,11 @@
 - [Networks](#networks)
 - [VPN](#vpn)
 - [DNS](#dns)
+- [Domain](#domain)
 - [VPS](#vps)
+- [Github](#github)
+- [Facebook/Instagram](#facebookinstagram)
+- [Youtube](#youtube)
 
 ## Quotes
 - *"Friends don’t spy; true friendship is about privacy, too."* - Stephen King
@@ -191,6 +195,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [DNS Watch](https://dns.watch/) | DNS Watch is a free, privacy-conscious DNS service that emphasizes unfiltered, uncensored internet access. | <p align="center">✅</p> |
 | [Uncensored DNS](https://uncensoreddns.org/) | Uncensored DNS is a DNS provider that aims to provide unrestricted and uncensored internet access. | <p align="center">✅</p> |
 
+## Domain
+| Name | Description | Jurisdiction |
+| --- | --- | --- |
+| [OrangeWebsite](https://orangewebsite.com/) | A web hosting and domain registration provider that markets itself as privacy- and free-speech-focused, with servers in Iceland and support for anonymous signup and cryptocurrency payments. | <p align="center">🇮🇸</p> |
+| [1984 Hosting](https://www.1984hosting.com/) | An Iceland-based web hosting company founded by civil liberties and Free Software advocates, emphasizing privacy, freedom of expression, and use of renewable energy. | <p align="center">🇮🇸</p> |
+| [Incognet](https://incognet.io/domain-registration) | A privacy-focused internet services provider that lets you register domain names with strong WHOIS privacy by default and pay with cryptocurrencies, and also offers web hosting, VPS, and privacy-oriented tools like WireGuard VPN. | <p align="center">🇺🇸</p>
+
 ## VPS
 | Name | Description |
 | --- | --- |
@@ -200,6 +211,35 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [BitLaunch](https://bitlaunch.io/) | BitLaunch enables one-click deployment of privacy-centric VPS on providers worldwide, accepting Monero and prioritizing anti-censorship tools. |
 | [AnonVM](https://anonvm.wtf/?language=english) | AnonVM delivers virtual machines optimized for anonymity, with Tor integration and exclusive Monero support for fully untraceable cloud computing.
  |
+
+# Alternatives
+## Github
+| Name | Description |
+| --- | --- |
+| [Codeberg](https://codeberg.org/) | A non-profit, community-run public code hosting platform based in Germany that lets developers host and collaborate on open-source projects using Git. |
+| [Forgejo](https://forgejo.org/) | Free, open-source software forge that you can self-host to manage Git repositories, issue tracking, code reviews, wikis, CI/CD, and other development features. |
+| [GitLab](https://about.gitlab.com/) | A comprehensive DevOps and software development platform built around Git. |
+| [Radicle](https://radicle.xyz/) | A peer-to-peer, decentralized code collaboration stack built on Git that removes central servers from the equation. |
+
+## Facebook/Instagram
+| Name | Description |
+| --- | --- |
+| [Mastodon](https://mastodon.social/) | A decentralized social network part of the Fediverse. Mastodon is an open‑source alternative to Twitter, allowing users to create their own independent servers (instances) with custom rules, or join existing ones. |
+| [Diaspora](https://diasporafoundation.org/) | A distributed social network focused on privacy and decentralization, where users can choose which of the federated "pods" (servers) they want to join, and own their data. |
+| [Minds](https://www.minds.com/) | A decentralized social platform focused on freedom of speech and privacy, with the ability for users to earn cryptocurrency (Minds tokens) based on engagement. |
+
+## Youtube
+| Name | Description |
+| --- | --- |
+| [Peertube](https://joinpeertube.org/en/) | free, open-source decentralized video hosting network where anyone can run an instance (server), join federations, and share videos without a single central authority. |
+| [Odysee](https://odysee.com/) | A decentralized video platform built on the LBRY blockchain. Creators can upload, share, and even monetize videos with cryptocurrency, and content lives on a peer-to-peer network rather than centralized servers. |
+| [DTube](https://github.com/dtube/dtube) | A blockchain-based decentralized video sharing site (originally built on Steem + IPFS) that lets users upload and watch videos without central control. |
+
+**Frontends**
+| Name | Description |
+| --- | --- |
+| [Invidious](https://github.com/iv-org/invidious) | A free open-source alternative frontend for YouTube. It lets you watch YouTube content without ads, tracking, or Google’s official scripts, offering features like playlists and subscriptions while respecting privacy. |
+| [Piped](https://github.com/TeamPiped/Piped) | Open-source and lightweight. Like Invidious, it lets you watch and browse YouTube videos without ads or tracking, and you can self-host instances. |
 
 <div align="center">
   <sub>This project is distributed under <a href="/LICENSE"><b>MIT License</b></a></sub>
