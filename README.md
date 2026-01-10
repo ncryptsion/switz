@@ -26,9 +26,16 @@
 - [DNS](#dns)
 - [Domain](#domain)
 - [VPS](#vps)
-- [Github](#github)
-- [Facebook/Instagram](#facebookinstagram)
-- [Youtube](#youtube)
+- [Artificial Intelligence](#artificial-intelligence)
+  - [ChatGPT](#chatgpt)
+- [Alternatives](#alternatives)
+  - [Github](#github)
+  - [Facebook/Instagram/Twitter](#facebookinstagramtwitter)
+  - [Youtube](#youtube)
+  - [Wikipedia](#wikipedia)
+  - [Reddit](#reddit)
+  - [Blogging](#blogging)
+  - [Discord](#discord)
 
 ## Quotes
 - *"Friends don’t spy; true friendship is about privacy, too."* - Stephen King
@@ -209,11 +216,24 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Black Host](https://black.host) | Black Host offers offshore, censorship-resistant hosting solutions designed for high anonymity, supporting privacy coins like Monero for payments. |
 | [Hiddence](https://hiddence.net/) | Hiddence specializes in secure, anonymous VPS hosting with features like encrypted storage and Monero-only billing to prevent tracking. |
 | [BitLaunch](https://bitlaunch.io/) | BitLaunch enables one-click deployment of privacy-centric VPS on providers worldwide, accepting Monero and prioritizing anti-censorship tools. |
-| [AnonVM](https://anonvm.wtf/?language=english) | AnonVM delivers virtual machines optimized for anonymity, with Tor integration and exclusive Monero support for fully untraceable cloud computing.
- |
+| [AnonVM](https://anonvm.wtf/?language=english) | AnonVM delivers virtual machines optimized for anonymity, with Tor integration and exclusive Monero support for fully untraceable cloud computing. |
 
-# Alternatives
-## Github
+## Artificial Intelligence
+### ChatGPT
+| Name | Description | Comments |
+| --- | --- | --- |
+| [LocalAI](https://github.com/mudler/LocalAI) | A free, open-source, self-hosted AI stack that lets you run large language models (LLMs), multimodal models, and AI services locally without cloud dependencies. | N/A |
+| [Jan](https://github.com/janhq/jan) | Jan is an open-source alternative to ChatGPT. Run open-source AI models locally or connect to cloud models like GPT, Claude and others. | N/A |
+| [Illama](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++. | N/A |
+| [Ollama](https://github.com/ollama/ollama) | An open-source platform and runtime for running large language models locally on your computer. | N/A |
+| [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | A lightweight local AI inference server written in Rust that provides a drop-in, OpenAI API-compatible endpoint for locally running GGUF/SafeTensors models. | N/A |
+| [GPT4All](https://github.com/nomic-ai/gpt4all) | An open-source ecosystem for running large language models locally on everyday desktops and laptops. | N/A |
+| [Tinfoil](https://tinfoil.sh/) | A privacy-focused AI platform that runs AI workloads inside secure hardware enclaves (confidential computing). | N/A |
+| [Duck.AI](https://duck.ai/) | While not directly local-AI, Duck.ai (Duck AI) is DuckDuckGo’s AI chatbot powered by OpenAI’s open-source models (e.g., gpt-oss:120B), emphasizing privacy, no accounts required and anonymized interactions though inference runs on DuckDuckGo’s servers rather than purely local.| Data is still sent to the respective servers. - NCryptsion |
+| [Venice](https://venice.ai/) | Venice offers the most advanced and accurate open-source models for a truly unbiased AI experience. All data stays on your device, not our servers. | Decent. - NCryptsion |
+
+## Alternatives
+### Github
 | Name | Description |
 | --- | --- |
 | [Codeberg](https://codeberg.org/) | A non-profit, community-run public code hosting platform based in Germany that lets developers host and collaborate on open-source projects using Git. |
@@ -221,14 +241,15 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [GitLab](https://about.gitlab.com/) | A comprehensive DevOps and software development platform built around Git. |
 | [Radicle](https://radicle.xyz/) | A peer-to-peer, decentralized code collaboration stack built on Git that removes central servers from the equation. |
 
-## Facebook/Instagram
+### Facebook/Instagram/Twitter
 | Name | Description |
 | --- | --- |
 | [Mastodon](https://mastodon.social/) | A decentralized social network part of the Fediverse. Mastodon is an open‑source alternative to Twitter, allowing users to create their own independent servers (instances) with custom rules, or join existing ones. |
 | [Diaspora](https://diasporafoundation.org/) | A distributed social network focused on privacy and decentralization, where users can choose which of the federated "pods" (servers) they want to join, and own their data. |
 | [Minds](https://www.minds.com/) | A decentralized social platform focused on freedom of speech and privacy, with the ability for users to earn cryptocurrency (Minds tokens) based on engagement. |
+| [Nitter](https://nitter.net/) | Nitter is a free and open source alternative Twitter front-end focused on privacy and performance. |
 
-## Youtube
+### Youtube
 | Name | Description |
 | --- | --- |
 | [Peertube](https://joinpeertube.org/en/) | free, open-source decentralized video hosting network where anyone can run an instance (server), join federations, and share videos without a single central authority. |
@@ -240,6 +261,28 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | --- | --- |
 | [Invidious](https://github.com/iv-org/invidious) | A free open-source alternative frontend for YouTube. It lets you watch YouTube content without ads, tracking, or Google’s official scripts, offering features like playlists and subscriptions while respecting privacy. |
 | [Piped](https://github.com/TeamPiped/Piped) | Open-source and lightweight. Like Invidious, it lets you watch and browse YouTube videos without ads or tracking, and you can self-host instances. |
+
+### Wikipedia
+| Name | Description |
+| --- | --- |
+| [Wikiless](https://github.com/Metastem/Wikiless) | Wikiless is a free, open-source Wikipedia alternative, focused on privacy. The project aims to deliver a more secure, anonymous browsing experience by minimizing data collection. |
+
+### Reddit
+| Name | Description |
+| --- | --- |
+| [Aether](https://getaether.net/) | Peer-to-peer ephemeral public communities, Open source, self-governing communities with auditable moderation and mod elections. |
+| [KBin](https://kbin.earth/) | A free, open-source federated Reddit-like content aggregator and microblogging platform running on the ActivityPub-based Fediverse network. |
+| [Lemmy](https://join-lemmy.org/) | An open-source federated social news aggregator that lets anyone host self-run discussion forums (“instances”) which communicate with each other via the ActivityPub protocol. |
+| [Dread (Tor)](https://www.onionlinkhub.com/links/dread/) | An anonymous, Reddit-like discussion forum hosted on the dark web via a Tor .onion service. Founded in 2018 as a successor to dark web darknet market discussion communities after Reddit banned them. |
+
+### Blogging
+| Name | Description | Comment |
+| --- | --- | --- |
+| [StandardNotes](https://standardnotes.com/) | A secure, end-to-end encrypted note-taking app designed to protect your data with strong privacy and zero-knowledge encryption — only you can decrypt your notes. | N/A |
+| [Ghost](https://ghost.org/) | A minimalist, privacy-focused writing and publishing platform that lets you write and publish text online with a distraction-free editor and strong privacy protections. | N/A |
+| [Write](https://write.as/) | The official website and hosted platform for Ghost — an open-source content management and publishing system built on Node.js for blogs, newsletters, and online publications. | N/A |
+
+### Discord
 
 <div align="center">
   <sub>This project is distributed under <a href="/LICENSE"><b>MIT License</b></a></sub>
