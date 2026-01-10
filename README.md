@@ -26,6 +26,8 @@
 - [DNS](#dns)
 - [Domain](#domain)
 - [VPS](#vps)
+- [Notes and Tasks](#notes-and-tasks)
+- [Office](#office)
 - [Artificial Intelligence](#artificial-intelligence)
   - [ChatGPT](#chatgpt)
 - [Alternatives](#alternatives)
@@ -218,6 +220,31 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [BitLaunch](https://bitlaunch.io/) | BitLaunch enables one-click deployment of privacy-centric VPS on providers worldwide, accepting Monero and prioritizing anti-censorship tools. |
 | [AnonVM](https://anonvm.wtf/?language=english) | AnonVM delivers virtual machines optimized for anonymity, with Tor integration and exclusive Monero support for fully untraceable cloud computing. |
 
+## Notes and Tasks
+**Notes**
+| Name | Description |
+| --- | --- |
+| [Obsidian](https://obsidian.md/) | Markdown-based personal knowledge management app that stores notes locally, lets you link ideas with bidirectional links, and visualize connections as a graph. Great for building a “second brain.” |
+| [Anytype](https://www.anytype.io/) | Local-first, privacy-focused workspace combining notes, structured objects (books, tasks, contacts), and a graph view like a more structured, encrypted Obsidian-style tool. |
+| [Notesnook](https://notesnook.com/) | Simple, secure note app with end-to-end encryption by default and cross-device sync; focused on privacy and ease of use. |
+| [Capacities](https://capacities.io/) | Block-based personal knowledge management tool that blends notes, linked data, and simple task/project organization designed for visual linking and personal workflows. |
+| [SiYuan](https://github.com/siyuan-note/siyuan) | Privacy-first, open-source knowledge management app with block-level editing, bidirectional links, Markdown/WYSIWYG editor, and rich features for organizing large or complex content. |
+| [Logseq](https://logseq.com/) | Free, open-source PKM (personal knowledge base) app centered on outlining, bidirectional links, and local Markdown/org-mode files; excellent for hierarchical notes and research tracking. |
+| [Trilium Notes](https://github.com/zadam/trilium) | Hierarchical, database-backed note app focused on complex structure and deep organization (nested notes, rich properties, automation), suitable for large knowledge bases. |
+
+**Tasks**
+| Name | Description |
+| --- | --- |
+| [Vikunja](https://vikunja.io/) | Open-source, self-hostable task and project management app — to-do lists, boards, timelines, and collaborative task tracking for individuals or teams. |
+
+## Office
+| Name | Description |
+| --- | --- |
+| [LibreOffice](https://www.libreoffice.org/) | LibreOffice is a powerful, free and private office suite the successor project to OpenOffice used by millions of people around the world. |
+| [OpenOffice](https://www.openoffice.org/) | Apache OpenOffice® is the free and open productivity suite from The Apache Software Foundation… a full office suite with applications for word processing, spreadsheets, presentations, drawing, mathematical formulas, and databases, available at no cost and released under the Apache License. |
+| [OnlyOffice](https://www.onlyoffice.com/) | Run your private office with ONLYOFFICE a complete office suite to view, edit, and collaborate on docs, sheets and slides, build and fill PDF forms, and work across web, desktop and mobile platforms, designed to make collaboration seamless and secure with open source code. |
+| [Cryptpad](https://cryptpad.fr/) | CryptPad is a collaborative office suite that is end-to-end encrypted and open-source, providing real-time editing with a full suite of apps while ensuring that no readable user data leaves the user’s device. |
+
 ## Artificial Intelligence
 ### ChatGPT
 | Name | Description | Comments |
@@ -283,6 +310,10 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Write](https://write.as/) | The official website and hosted platform for Ghost — an open-source content management and publishing system built on Node.js for blogs, newsletters, and online publications. | N/A |
 
 ### Discord
+| Name | Description |
+| --- | --- |
+| [Stoat (formerly Revolt)](https://stoat.chat/) | The chat app where you are the main character. |
+| [Rocket](https://www.rocket.chat/) | Secure CommsOS™ for mission-critical operations. Bring together messaging, voice, video, critical apps, and AI to keep teams connected and missions protected. |
 
 <div align="center">
   <sub>This project is distributed under <a href="/LICENSE"><b>MIT License</b></a></sub>
