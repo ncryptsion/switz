@@ -10,6 +10,7 @@
 - [Top Countries](#top-countries)
 - [Payments](#payments)
 - [2FA](#2fa)
+- [Encryptions](#encryptions)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
 - [Search Engines](#search-engines)
@@ -20,13 +21,18 @@
 - [Cloud Storage](#cloud-storage)
 - [Email](#email)
 - [Accounts Managers](#accounts-managers)
-- [Code Editors](#code-editors)
+- [File Sharing](#file-sharing)
 - [Networks](#networks)
 - [VPN](#vpn)
 - [DNS](#dns)
 - [Domain](#domain)
 - [VPS](#vps)
+- [Paste](#paste)
+- [Online Image Editors](#online-image-editors)
 - [Notes and Tasks](#notes-and-tasks)
+- [Development](#development)
+  - [App Notifications](#app-notifications)
+  - [Code Editors](#code-editors)
 - [Office](#office)
 - [Artificial Intelligence](#artificial-intelligence)
   - [ChatGPT](#chatgpt)
@@ -76,6 +82,15 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Ente](https://ente.io/auth/) | Ente is a privacy-focused 2FA app that offers time-based one-time passwords. |
 | [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) | FreeOTP Plus is an open-source 2FA app that enhances the original FreeOTP by providing more features, like backup and multi-device support. |
 | [Owky](https://github.com/charlietango/owky) | Owky is a user-friendly 2FA app focused on providing seamless multi-account support. It generates time-based, one-time passcodes (TOTP) for various online platforms. |
+
+## Encryptions
+| Name | Description |
+| --- | --- |
+| [VeraCrypt](https://www.veracrypt.fr/) | VeraCrypt is an open-source disk encryption software that allows users to create encrypted virtual disks or encrypt entire drives, providing strong security for files and sensitive data. |
+| [Cryptomator](https://cryptomator.org/) | Cryptomator is a free, open-source encryption software designed for securing files in cloud storage by encrypting individual files with client-side encryption, ensuring privacy without relying on the cloud provider's security. |
+| [Picocrypt](https://github.com/Picocrypt/Picocrypt) | Picocrypt is a simple, lightweight encryption tool for files, focusing on ease of use with a minimalistic design. |
+| [Cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) | Cryptsetup is a utility used for setting up disk encryption with LUKS (Linux Unified Key Setup) on Linux systems, allowing users to create and manage encrypted partitions or volumes for data protection. |
+| [ShuffleCake](https://shufflecake.net/index.html) | Shufflecake is a tool for Linux that allows to create multiple hidden volumes on a storage device in such a way that it is very difficult, even under forensic inspection, to prove the existence of such volumes. |
 
 ## Browsers
 | Name | Description | Comments |
@@ -134,7 +149,6 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Tox](https://tox.chat/) | Free, open-source, decentralized messaging with end-to-end encryption for text, voice, and video. | N/A |
 | [Jami](https://jami.net/) | Decentralized, open-source, fully encrypted messaging platform for text, voice, and video with no central server. | N/A |
 
-
 ## Cloud Storage
 | Name | Description | Open-Source | Comments |
 | --- | --- | --- | --- |
@@ -168,14 +182,12 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [KeePass](https://keepass.info/) | KeePass is a free, open-source password manager that helps you securely store your passwords in an encrypted database. | N/A |
 | [Proton Pass](https://proton.me/pass) | Proton Pass is a password manager developed by Proton, the creators of ProtonMail. It is designed to offer the same level of privacy and security as Proton’s other services. | N/A |
 
-## Code Editors
+## File Sharing
 | Name | Description | Comments |
 | --- | --- | --- |
-| [VSCodium](https://vscodium.com/) | VSCodium is an open-source, community-driven version of Microsoft's Visual Studio Code (VSCode). While VSCode itself is free, it includes telemetry (data collection) that some users may not want. | The best, no exceptions. - NCryptsion |
-| [Atom](https://atom.io/) | Atom is an open-source, customizable text editor developed by GitHub. It is designed to be a "hackable" editor, meaning that users can modify and extend its features to suit their needs. | N/A |
-| [Brackets](https://brackets.io/) | Brackets is an open-source, lightweight text editor focused on web development. It was designed with front-end developers in mind, offering features that streamline the process of building websites. | N/A |
-| [Notepad++](https://notepad-plus-plus.org/) | Notepad++ is a popular, open-source text editor for Windows that offers a lightweight alternative to more resource-heavy IDEs. It supports syntax highlighting for over 80 programming languages, and its simple interface makes it ideal for quick edits and scripting tasks. | N/A |
-| [Void Editor](https://voideditor.com/) | Void is an open source Cursor alternative. Write code with the best AI tools, use any model, and retain full control over your data. | N/A |
+| [QuAx](https://qu.ax/) | QuAx is a privacy-focused decentralized web hosting platform that allows users to create and manage websites securely, offering anonymity through the use of Tor and IPFS technology, while minimizing the risk of censorship. | My favorite, really good owner. - NCryptsion |
+| [OnionShare](https://onionshare.org/) | OnionShare is an open-source tool that enables users to securely and anonymously share files over the Tor network. | For Tor lover. - NCryptsion |
+| [Wormhole](https://wormhole.app/) | Wormhole is a fast and secure peer-to-peer file transfer tool that uses end-to-end encryption. | This one is OG. - NCryptsion |
 
 ## Networks
 | Name | Description |
@@ -187,14 +199,14 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Hyphanet](https://www.hyphanet.org/) | Hyphanet is a lesser-known decentralized network that allows users to build private, secure, and censorship-resistant communication systems. |
 
 ## VPN
-| Name | Description | Audited |
-| --- | --- | --- |
-| [Mullvad](https://mullvad.net/en) | Mullvad is a privacy-focused VPN service known for its strong commitment to anonymity. It doesn’t require personal information to sign up, users are simply assigned an anonymous account number. | <p align="center">✅</p>  |
-| [Windscribe](https://windscribe.com/) | Windscribe is a user-friendly VPN service with a strong focus on privacy. It offers both free and paid plans, with the free plan providing up to 10 GB of data per month. | <p align="center">✅</p>  |
-| [iVPN](https://www.ivpn.net/en/) | iVPN is a smaller, privacy-oriented VPN service that emphasizes strong security practices. | <p align="center">✅</p>  |
-| [Nym](https://nym.com/) | Nym is a privacy-focused network designed to provide secure, anonymous browsing by using a mix of VPN and onion routing technology. | <p align="center">✅</p> |
-| [ProtonVPN](https://protonvpn.com/) | ProtonVPN is created by the same team behind ProtonMail, emphasizing both privacy and security. | <p align="center">✅</p> |
-| [IPVanish](https://www.ipvanish.com/) | IPVanish is a well-established VPN service with a reputation for providing fast and secure connections. | <p align="center">✅</p> |
+| Name | Description | Audited | Comments |
+| --- | --- | --- | --- |
+| [Mullvad](https://mullvad.net/en) | Mullvad is a privacy-focused VPN service known for its strong commitment to anonymity. It doesn’t require personal information to sign up, users are simply assigned an anonymous account number. | <p align="center">✅</p>  | Certainly the king. - NCryptsion |
+| [Windscribe](https://windscribe.com/) | Windscribe is a user-friendly VPN service with a strong focus on privacy. It offers both free and paid plans, with the free plan providing up to 10 GB of data per month. | <p align="center">✅</p>  | 2nd to the king. - NCryptsion |
+| [iVPN](https://www.ivpn.net/en/) | iVPN is a smaller, privacy-oriented VPN service that emphasizes strong security practices. | <p align="center">✅</p>  | Noice. - NCryptsion |
+| [Nym](https://nym.com/) | Nym is a privacy-focused network designed to provide secure, anonymous browsing by using a mix of VPN and onion routing technology. | <p align="center">✅</p> | N/A |
+| [ProtonVPN](https://protonvpn.com/) | ProtonVPN is created by the same team behind ProtonMail, emphasizing both privacy and security. | <p align="center">✅</p> | N/A |
+| [IPVanish](https://www.ipvanish.com/) | IPVanish is a well-established VPN service with a reputation for providing fast and secure connections. | <p align="center">✅</p> | N/A |
 
 ## DNS
 | Name | Description | No-Logging |
@@ -203,6 +215,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Quad9](https://quad9.net/) | Quad9 is a security-focused DNS provider that prioritizes privacy and protection from malicious websites. | <p align="center">✅ (anonymous)</p> |
 | [DNS Watch](https://dns.watch/) | DNS Watch is a free, privacy-conscious DNS service that emphasizes unfiltered, uncensored internet access. | <p align="center">✅</p> |
 | [Uncensored DNS](https://uncensoreddns.org/) | Uncensored DNS is a DNS provider that aims to provide unrestricted and uncensored internet access. | <p align="center">✅</p> |
+| [AdGuard](https://adguard.com/en/adguard-dns/overview.html) | Open-source DNS provider, specialising in the blocking of ads, trackers and malicious domains. They have been independently audited and do not keep logs. | <p align="center">✅</p> |
 
 ## Domain
 | Name | Description | Jurisdiction |
@@ -220,6 +233,21 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [BitLaunch](https://bitlaunch.io/) | BitLaunch enables one-click deployment of privacy-centric VPS on providers worldwide, accepting Monero and prioritizing anti-censorship tools. |
 | [AnonVM](https://anonvm.wtf/?language=english) | AnonVM delivers virtual machines optimized for anonymity, with Tor integration and exclusive Monero support for fully untraceable cloud computing. |
 
+## Paste
+| Name | Description |
+| --- | --- |
+| [PrivateBin](https://privatebin.info/) | PrivateBin is an open-source, minimalist, web-based application for sharing text in an encrypted and self-destructive manner. |
+| [Paaster](https://github.com/WardPearce/paaster) | Paaster is a privacy-focused, open-source tool designed to create and share disposable, encrypted pastes. |
+| [0bin](https://github.com/Tygs/0bin) | 0bin is a web-based, open-source pastebin service that encrypts your paste client-side, ensuring that even the server operators cannot read the content. |
+| [ProtectedText](https://www.protectedtext.com/) | ProtectedText is an online, encrypted note-sharing platform that allows users to store and share sensitive text securely. |
+| [CodedPad](https://www.codedpad.com/) | CodedPad is an online code-sharing and collaboration tool that allows users to share and edit code in real-time. |
+| [PrivNote](https://privnote.com/) | PrivNote is a secure messaging platform that lets users send self-destructive notes, which are encrypted and automatically deleted once they've been read. |
+
+## Online Image Editors
+| Name | Description |
+| --- | --- |
+| [ImageResizeAI](https://imageresizeai.com/) | Resize, crop, compress & optimize images instantly with AI. High quality, complete privacy, no watermarks, 100% free. |
+
 ## Notes and Tasks
 **Notes**
 | Name | Description |
@@ -236,6 +264,21 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | Name | Description |
 | --- | --- |
 | [Vikunja](https://vikunja.io/) | Open-source, self-hostable task and project management app — to-do lists, boards, timelines, and collaborative task tracking for individuals or teams. |
+
+## Development
+### App Notifications
+| Name | Description |  Comments |
+| --- | --- | --- |
+| [Ntfy](https://ntfy.sh/) | ntfy (pronounced notify) is a simple HTTP-based pub-sub notification service. It allows you to send notifications to your phone or desktop via scripts from any computer, and/or using a REST API. | The best, it can be self-hosted too! - NCryptsion |
+
+### Code Editors
+| Name | Description | Comments |
+| --- | --- | --- |
+| [VSCodium](https://vscodium.com/) | VSCodium is an open-source, community-driven version of Microsoft's Visual Studio Code (VSCode). While VSCode itself is free, it includes telemetry (data collection) that some users may not want. | The best, no exceptions. - NCryptsion |
+| [Atom](https://atom.io/) | Atom is an open-source, customizable text editor developed by GitHub. It is designed to be a "hackable" editor, meaning that users can modify and extend its features to suit their needs. | N/A |
+| [Brackets](https://brackets.io/) | Brackets is an open-source, lightweight text editor focused on web development. It was designed with front-end developers in mind, offering features that streamline the process of building websites. | N/A |
+| [Notepad++](https://notepad-plus-plus.org/) | Notepad++ is a popular, open-source text editor for Windows that offers a lightweight alternative to more resource-heavy IDEs. It supports syntax highlighting for over 80 programming languages, and its simple interface makes it ideal for quick edits and scripting tasks. | N/A |
+| [Void Editor](https://voideditor.com/) | Void is an open source Cursor alternative. Write code with the best AI tools, use any model, and retain full control over your data. | N/A |
 
 ## Office
 | Name | Description |
@@ -305,7 +348,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 ### Blogging
 | Name | Description | Comment |
 | --- | --- | --- |
-| [StandardNotes](https://standardnotes.com/) | A secure, end-to-end encrypted note-taking app designed to protect your data with strong privacy and zero-knowledge encryption — only you can decrypt your notes. | N/A |
+| [StandardNotes](https://standardnotes.com/) | A secure, end-to-end encrypted note-taking app designed to protect your data with strong privacy and zero-knowledge encryption, only you can decrypt your notes. | N/A |
 | [Ghost](https://ghost.org/) | A minimalist, privacy-focused writing and publishing platform that lets you write and publish text online with a distraction-free editor and strong privacy protections. | N/A |
 | [Write](https://write.as/) | The official website and hosted platform for Ghost — an open-source content management and publishing system built on Node.js for blogs, newsletters, and online publications. | N/A |
 
