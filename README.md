@@ -22,6 +22,8 @@
 - [Email](#email)
 - [Accounts Managers](#accounts-managers)
 - [File Sharing](#file-sharing)
+- [Online SMS](#online-sms)
+- [VOIP Clients](#voip-clients)
 - [Networks](#networks)
 - [VPN](#vpn)
 - [DNS](#dns)
@@ -30,10 +32,13 @@
 - [Paste](#paste)
 - [Online Image Editors](#online-image-editors)
 - [Notes and Tasks](#notes-and-tasks)
+- [Office](#office)
+- [Utilities](#utilities)
+  - [Files Shredders](#files-shredders)
+  - [Metadata Removal](#metadata-removal)
 - [Development](#development)
   - [App Notifications](#app-notifications)
   - [Code Editors](#code-editors)
-- [Office](#office)
 - [Artificial Intelligence](#artificial-intelligence)
   - [ChatGPT](#chatgpt)
 - [Alternatives](#alternatives)
@@ -129,11 +134,11 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 ### Decentralize
 | Name | Description | Comments |
 | --- | --- | --- |
-| [SimpleX](https://simplex.chat/) | SimpleX messaging has cutting-edge end-to-end encryption. For your security and privacy, servers can't see your messages and who you talk to. | N/A |
+| [SimpleX](https://simplex.chat/) | SimpleX messaging has cutting-edge end-to-end encryption. For your security and privacy, servers can't see your messages and who you talk to. | Best for "complete-discrete" conversation. - NCryptsion |
 | [Speek!](https://github.com/Speek-App/Speek) | Speek is serverless, stores no metadata, requires no ID or phone number and all messages including file transfers are end-to-end encrypted and routed via the Tor network. | N/A |
 | [Utopia](https://u.is/) | Utopia is a decentralized, privacy-focused ecosystem that includes secure messaging, file sharing, browsing, and more. | N/A |
 | [Element (formerly Riot)](https://element.io/en) | Open-source, decentralized messaging app built on the Matrix protocol. It allows for real-time messaging, video calls, and file sharing. | Best for communities. - NCryptsion |
-| [Session](https://getsession.org/) | Session is a private messenger app designed to give you full control over your communication. Built on top of the open-source Loki network. | N/A
+| [Session](https://getsession.org/) | Session is a private messenger app designed to give you full control over your communication. Built on top of the open-source Loki network. | Decent. - NCryptsion |
 
 ### Centralize
 | Name | Description | Comments |
@@ -188,6 +193,19 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [QuAx](https://qu.ax/) | QuAx is a privacy-focused decentralized web hosting platform that allows users to create and manage websites securely, offering anonymity through the use of Tor and IPFS technology, while minimizing the risk of censorship. | My favorite, really good owner. - NCryptsion |
 | [OnionShare](https://onionshare.org/) | OnionShare is an open-source tool that enables users to securely and anonymously share files over the Tor network. | For Tor lover. - NCryptsion |
 | [Wormhole](https://wormhole.app/) | Wormhole is a fast and secure peer-to-peer file transfer tool that uses end-to-end encryption. | This one is OG. - NCryptsion |
+
+## Online SMS
+| Name | Description |
+| --- | --- |
+| [MoneroSMS](https://monerosms.com/) | A service that lets you send and receive SMS using virtual phone numbers, you can top up credits (often in Monero) and manage numbers via web or CLI. |
+| [Crypton](https://crypton.sh/) | A privacy-focused messaging/phone number platform where you rent a real phone number (physical SIM or eSIM) and send/receive SMS with a privacy emphasis and encryption, plus API access for developers. |
+| [VirtualSMS](https://virtualsim.net/) | A service offering remote access to real phone numbers (leased SIM cards) for receiving SMS — mainly used for account verification and keeping your own number private. |
+
+## VOIP Clients
+| Name | Description |
+| --- | --- |
+| [Mumble](https://www.mumble.info/) | An open-source VoIP voice chat application originally designed for gaming. It provides low-latency, high-quality voice communication, uses a client-server model, and supports encrypted voice chat across platforms (Windows, macOS, Linux, Android, iOS). |
+| [Linphone](https://www.linphone.org/) | A free, open-source SIP-based softphone for VoIP calling, video calls, and instant messaging. It supports standard SIP communication, works across many platforms, and can integrate with IP-PBX or VoIP services for voice and video communication. |
 
 ## Networks
 | Name | Description |
@@ -265,6 +283,29 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | --- | --- |
 | [Vikunja](https://vikunja.io/) | Open-source, self-hostable task and project management app — to-do lists, boards, timelines, and collaborative task tracking for individuals or teams. |
 
+## Office
+| Name | Description |
+| --- | --- |
+| [LibreOffice](https://www.libreoffice.org/) | LibreOffice is a powerful, free and private office suite the successor project to OpenOffice used by millions of people around the world. |
+| [OpenOffice](https://www.openoffice.org/) | Apache OpenOffice® is the free and open productivity suite from The Apache Software Foundation… a full office suite with applications for word processing, spreadsheets, presentations, drawing, mathematical formulas, and databases, available at no cost and released under the Apache License. |
+| [OnlyOffice](https://www.onlyoffice.com/) | Run your private office with ONLYOFFICE a complete office suite to view, edit, and collaborate on docs, sheets and slides, build and fill PDF forms, and work across web, desktop and mobile platforms, designed to make collaboration seamless and secure with open source code. |
+| [Cryptpad](https://cryptpad.fr/) | CryptPad is a collaborative office suite that is end-to-end encrypted and open-source, providing real-time editing with a full suite of apps while ensuring that no readable user data leaves the user’s device. |
+
+## Utilities
+### Files Shredders
+| Name | Description |  Comments |
+| --- | --- | --- |
+| [OW Shredder](https://schiffer.tech/ow-shredder.html) | A Windows security utility for securely erasing sensitive data. It can wipe individual files, free disk space, and whole volumes so that the deleted data cannot be recovered. | N/A |
+| [Eraser](https://eraser.heidi.ie/) | An open-source secure data erasure tool for Windows that permanently deletes files, folders or unused disk space by overwriting the data multiple times using recognized sanitization schemes (e.g., Gutmann, DoD) | N/A |
+| [Shred](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html) | Often refers to a command-line utility on Unix/Linux that securely overwrites files to make them hard or impossible to recover — more secure than normal delete. | N/A |
+
+### Metadata Removal
+| Name | Description |  Comments |
+| --- | --- | --- |
+| [ExifTool](https://exiftool.org/) | A powerful command-line metadata reader/writer/editor that works with many file formats. It’s widely used to view, edit, or remove metadata (EXIF, IPTC, XMP, GPS, etc.) from photos, videos, documents, and more. | The best. - NCryptsion |
+| [ExifCleaner](https://exifcleaner.com/) | A graphical desktop app built on ExifTool that lets you remove metadata (like camera details and GPS) from images, videos, PDFs, and other files using a simple drag-and-drop interface. | N/A |
+| [ImageOptim](https://imageoptim.com/mac) | A Mac image optimization tool that reduces file size without losing quality and also strips out unnecessary metadata (including EXIF) to save disk space and speed up web delivery. | N/A |
+
 ## Development
 ### App Notifications
 | Name | Description |  Comments |
@@ -279,14 +320,6 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Brackets](https://brackets.io/) | Brackets is an open-source, lightweight text editor focused on web development. It was designed with front-end developers in mind, offering features that streamline the process of building websites. | N/A |
 | [Notepad++](https://notepad-plus-plus.org/) | Notepad++ is a popular, open-source text editor for Windows that offers a lightweight alternative to more resource-heavy IDEs. It supports syntax highlighting for over 80 programming languages, and its simple interface makes it ideal for quick edits and scripting tasks. | N/A |
 | [Void Editor](https://voideditor.com/) | Void is an open source Cursor alternative. Write code with the best AI tools, use any model, and retain full control over your data. | N/A |
-
-## Office
-| Name | Description |
-| --- | --- |
-| [LibreOffice](https://www.libreoffice.org/) | LibreOffice is a powerful, free and private office suite the successor project to OpenOffice used by millions of people around the world. |
-| [OpenOffice](https://www.openoffice.org/) | Apache OpenOffice® is the free and open productivity suite from The Apache Software Foundation… a full office suite with applications for word processing, spreadsheets, presentations, drawing, mathematical formulas, and databases, available at no cost and released under the Apache License. |
-| [OnlyOffice](https://www.onlyoffice.com/) | Run your private office with ONLYOFFICE a complete office suite to view, edit, and collaborate on docs, sheets and slides, build and fill PDF forms, and work across web, desktop and mobile platforms, designed to make collaboration seamless and secure with open source code. |
-| [Cryptpad](https://cryptpad.fr/) | CryptPad is a collaborative office suite that is end-to-end encrypted and open-source, providing real-time editing with a full suite of apps while ensuring that no readable user data leaves the user’s device. |
 
 ## Artificial Intelligence
 ### ChatGPT
