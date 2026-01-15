@@ -11,13 +11,7 @@
 - [Payments](#payments)
 - [2FA](#2fa)
 - [Encryptions](#encryptions)
-- [Browsers](#browsers)
-  - [Chrome Extensions](#chrome-extensions)
 - [Search Engines](#search-engines)
-- [Messengers](#messengers)
-  - [Decentralize](#decentralize)
-  - [Centralize](#centralize)
-  - [P2P](#p2p)
 - [Cloud Storage](#cloud-storage)
 - [Email](#email)
 - [Accounts Managers](#accounts-managers)
@@ -33,7 +27,15 @@
 - [Online Image Editors](#online-image-editors)
 - [Notes and Tasks](#notes-and-tasks)
 - [Office](#office)
+- [Link Shorteners](#link-shorteners)
+- [Browsers](#browsers)
+  - [Chrome Extensions](#chrome-extensions)
+- [Messengers](#messengers)
+  - [Decentralize](#decentralize)
+  - [Centralize](#centralize)
+  - [P2P](#p2p)
 - [Utilities](#utilities)
+  - [Backup](#backup)
   - [Files Shredders](#files-shredders)
   - [Metadata Removal](#metadata-removal)
 - [Development](#development)
@@ -97,28 +99,6 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) | Cryptsetup is a utility used for setting up disk encryption with LUKS (Linux Unified Key Setup) on Linux systems, allowing users to create and manage encrypted partitions or volumes for data protection. |
 | [ShuffleCake](https://shufflecake.net/index.html) | Shufflecake is a tool for Linux that allows to create multiple hidden volumes on a storage device in such a way that it is very difficult, even under forensic inspection, to prove the existence of such volumes. |
 
-## Browsers
-| Name | Description | Comments |
-| --- | --- | --- |
-| [Tor Browser](https://www.torproject.org/) | Tor Browser is a free, open-source browser that enables anonymous communication on the internet. | Perhaps the most anonymous browser ever. - NCryptsion |
-| [LibreWolf](https://librewolf.net/) | LibreWolf is a browser based on Firefox that focuses on privacy, security, and freedom. | N/A |
-| [Brave](https://brave.com/) | Brave is a privacy-focused browser that blocks ads, trackers, and other unwanted content by default. | N/A |
-| [Firefox](https://www.mozilla.org/firefox) | Firefox is a fast, privacy-focused browser that is open-source and designed to give users control over their online experience. | N/A |
-| [Iridium](https://iridiumbrowser.de/) | Iridium Browser is a privacy-focused web browser that is based on Chromium. | N/A |
-| [Thorium](https://thorium.rocks/) | Thorium is a web browser based on Chromium with a strong focus on privacy and open-source principles. | N/A |
-
-### Chrome Extensions
-| Name | Description |
-| --- | --- |
-| [Privacy Badger](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) | Privacy Badger is a browser extension developed by the Electronic Frontier Foundation (EFF) that automatically blocks trackers that spy on your online activity. |
-| [Ghostery](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij) | Ghostery is a privacy and security-related browser extension that blocks trackers, ads, and other third-party content that compromises your online privacy. |
-| [Adblock Plus](https://chromewebstore.google.com/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en) | Adblock Plus (ABP) is one of the most popular ad-blocking browser extensions. It blocks ads and pop-ups on websites, including intrusive banner ads, video ads, and other unwanted content. |
-| [DuckDuckGo Essentials](https://chromewebstore.google.com/detail/duckduckgo-search-tracker/bkdgflcldnnnapblkhphbgpggdiikppg?hl=en) | DuckDuckGo Essentials is a privacy-focused browser extension that helps protect your privacy while browsing the web. |
-| [NoScript](https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm?hl=en) | NoScript is a browser extension that blocks all scripts (JavaScript, Java, Flash, and other potentially dangerous content) by default, allowing you to selectively allow trusted sources. |
-| [Decentraleyes](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj?hl=en) | Decentraleyes is a privacy extension that focuses on reducing reliance on third-party servers for delivering web resources like scripts, fonts, and stylesheets. |
-| [PixelBlock](https://chromewebstore.google.com/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem) | Gmail extension that blocks email tracking attempts used to detect when you open and read emails. PixelBlock displays a 'red eye' when it finds and blocks a tracking attempt inside of an email. |
-| [minerBlock](https://chromewebstore.google.com/detail/minerblock/dgcjdgkiclbfekoepomcjmifmgejhdga) | Blocks cryptocurrency miners all over the web. |
-
 ## Search Engines
 | Name | Description |
 | --- | --- |
@@ -129,30 +109,6 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Qwant](https://www.qwant.com/) | A European search engine that focuses on privacy and neutrality. It does not track users or use personal data for advertising. Qwant offers results from the web, news, social media, and shopping without profiling. |
 | [MetaGer](https://metager.org/) | A German privacy-friendly metasearch engine that does not track users. It combines results from major search engines and offers additional privacy features like anonymous browsing and encrypted search. |
 | [Swisscows](https://swisscows.com/en) | A Swiss-based privacy-focused search engine that emphasizes family-friendly content. It does not track user data and offers results with AI-based semantic search technology, offering more accurate results without any personal data collection. |
-
-## Messengers
-### Decentralize
-| Name | Description | Comments |
-| --- | --- | --- |
-| [SimpleX](https://simplex.chat/) | SimpleX messaging has cutting-edge end-to-end encryption. For your security and privacy, servers can't see your messages and who you talk to. | Best for "complete-discrete" conversation. - NCryptsion |
-| [Speek!](https://github.com/Speek-App/Speek) | Speek is serverless, stores no metadata, requires no ID or phone number and all messages including file transfers are end-to-end encrypted and routed via the Tor network. | N/A |
-| [Utopia](https://u.is/) | Utopia is a decentralized, privacy-focused ecosystem that includes secure messaging, file sharing, browsing, and more. | N/A |
-| [Element (formerly Riot)](https://element.io/en) | Open-source, decentralized messaging app built on the Matrix protocol. It allows for real-time messaging, video calls, and file sharing. | Best for communities. - NCryptsion |
-| [Session](https://getsession.org/) | Session is a private messenger app designed to give you full control over your communication. Built on top of the open-source Loki network. | Decent. - NCryptsion |
-
-### Centralize
-| Name | Description | Comments |
-| --- | --- | --- |
-| [Signal](https://signal.org/) | Privacy-focused messaging app that uses end-to-end encryption for secure communication. | Perfect alternative for your phone default Messaging app. - NCryptsion |
-| [Threema](https://threema.com/en) | Secure, privacy-focused messaging app that operates on a centralized model but offers robust encryption and anonymity features. | N/A |
-| [0xchat](https://www.0xchat.com/) | 0xchat is a secure chat app built on the Nostr protocol. | N/A |
-
-### P2P
-| Name | Description | Comments |
-| --- | --- | --- |
-| [Briar](https://briarproject.org/) | Secure, decentralized, uses peer-to-peer for offline communication, suitable for activists and those needing extra privacy. | N/A |
-| [Tox](https://tox.chat/) | Free, open-source, decentralized messaging with end-to-end encryption for text, voice, and video. | N/A |
-| [Jami](https://jami.net/) | Decentralized, open-source, fully encrypted messaging platform for text, voice, and video with no central server. | N/A |
 
 ## Cloud Storage
 | Name | Description | Open-Source | Comments |
@@ -180,7 +136,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | Name | Description | Comments |
 | --- | --- | --- |
 | [KeePassXC](https://keepassxc.org/) | KeePassXC is an open-source password manager that allows you to securely store and manage your passwords in an encrypted database. | The best for local accounts management. - NCryptsion |
-| [Bitwarden](https://bitwarden.com/) | Bitwarden is a widely-used, open-source password manager that stores your passwords in an encrypted vault. | N/A |
+| [Bitwarden](https://bitwarden.com/) | Bitwarden is a widely-used, open-source password manager that stores your passwords in an encrypted vault. | Also one of the best of best. - NCryptsion |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden/) | Vaultwarden (formerly known as "bitwarden_rs") is a lightweight, self-hosted alternative to Bitwarden. | N/A |
 | [Passbolt](https://www.passbolt.com/) | Passbolt is an open-source password manager aimed at teams and businesses. It allows organizations to securely store, manage, and share passwords within a team environment. | Great for team-type accounts management. - NCryptsion |
 | [PSono](https://psono.com/) | PSono is a self-hosted, open-source password manager built with a strong emphasis on privacy and security. | N/A | 
@@ -199,7 +155,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | --- | --- |
 | [MoneroSMS](https://monerosms.com/) | A service that lets you send and receive SMS using virtual phone numbers, you can top up credits (often in Monero) and manage numbers via web or CLI. |
 | [Crypton](https://crypton.sh/) | A privacy-focused messaging/phone number platform where you rent a real phone number (physical SIM or eSIM) and send/receive SMS with a privacy emphasis and encryption, plus API access for developers. |
-| [VirtualSMS](https://virtualsim.net/) | A service offering remote access to real phone numbers (leased SIM cards) for receiving SMS — mainly used for account verification and keeping your own number private. |
+| [VirtualSMS](https://virtualsim.net/) | A service offering remote access to real phone numbers (leased SIM cards) for receiving SMS mainly used for account verification and keeping your own number private. |
 
 ## VOIP Clients
 | Name | Description |
@@ -291,7 +247,67 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [OnlyOffice](https://www.onlyoffice.com/) | Run your private office with ONLYOFFICE a complete office suite to view, edit, and collaborate on docs, sheets and slides, build and fill PDF forms, and work across web, desktop and mobile platforms, designed to make collaboration seamless and secure with open source code. |
 | [Cryptpad](https://cryptpad.fr/) | CryptPad is a collaborative office suite that is end-to-end encrypted and open-source, providing real-time editing with a full suite of apps while ensuring that no readable user data leaves the user’s device. |
 
+## Link Shorteners
+| Name | Description | Comments |
+| --- | --- | --- |
+| [MagLit](https://maglit.me/) | A Free and Open Source Encrypted Privacy Respecting Magnet/HTTP(s) Link Shortener. | N/A |
+| [Tnyr](https://tnyr.me/) | A URL shortening service with a focus on privacy, offering anonymous and secure links that don’t track users. | N/A |
+| [UrlVanish](https://urlvanish.com/) | A privacy-focused URL shortening service that hides tracking data, ensuring that shortened URLs do not reveal any personal information about the user. | N/A |
+
+## Browsers
+| Name | Description | Comments |
+| --- | --- | --- |
+| [Tor Browser](https://www.torproject.org/) | Tor Browser is a free, open-source browser that enables anonymous communication on the internet. | Perhaps the most anonymous browser ever. - NCryptsion |
+| [LibreWolf](https://librewolf.net/) | LibreWolf is a browser based on Firefox that focuses on privacy, security, and freedom. | N/A |
+| [Brave](https://brave.com/) | Brave is a privacy-focused browser that blocks ads, trackers, and other unwanted content by default. | N/A |
+| [Firefox](https://www.mozilla.org/firefox) | Firefox is a fast, privacy-focused browser that is open-source and designed to give users control over their online experience. | N/A |
+| [Iridium](https://iridiumbrowser.de/) | Iridium Browser is a privacy-focused web browser that is based on Chromium. | N/A |
+| [Thorium](https://thorium.rocks/) | Thorium is a web browser based on Chromium with a strong focus on privacy and open-source principles. | N/A |
+
+### Chrome Extensions
+| Name | Description |
+| --- | --- |
+| [Privacy Badger](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) | Privacy Badger is a browser extension developed by the Electronic Frontier Foundation (EFF) that automatically blocks trackers that spy on your online activity. |
+| [Ghostery](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij) | Ghostery is a privacy and security-related browser extension that blocks trackers, ads, and other third-party content that compromises your online privacy. |
+| [Adblock Plus](https://chromewebstore.google.com/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en) | Adblock Plus (ABP) is one of the most popular ad-blocking browser extensions. It blocks ads and pop-ups on websites, including intrusive banner ads, video ads, and other unwanted content. |
+| [DuckDuckGo Essentials](https://chromewebstore.google.com/detail/duckduckgo-search-tracker/bkdgflcldnnnapblkhphbgpggdiikppg?hl=en) | DuckDuckGo Essentials is a privacy-focused browser extension that helps protect your privacy while browsing the web. |
+| [NoScript](https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm?hl=en) | NoScript is a browser extension that blocks all scripts (JavaScript, Java, Flash, and other potentially dangerous content) by default, allowing you to selectively allow trusted sources. |
+| [Decentraleyes](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj?hl=en) | Decentraleyes is a privacy extension that focuses on reducing reliance on third-party servers for delivering web resources like scripts, fonts, and stylesheets. |
+| [PixelBlock](https://chromewebstore.google.com/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem) | Gmail extension that blocks email tracking attempts used to detect when you open and read emails. PixelBlock displays a 'red eye' when it finds and blocks a tracking attempt inside of an email. |
+| [minerBlock](https://chromewebstore.google.com/detail/minerblock/dgcjdgkiclbfekoepomcjmifmgejhdga) | Blocks cryptocurrency miners all over the web. |
+
+## Messengers
+### Decentralize
+| Name | Description | Comments |
+| --- | --- | --- |
+| [SimpleX](https://simplex.chat/) | SimpleX messaging has cutting-edge end-to-end encryption. For your security and privacy, servers can't see your messages and who you talk to. | Best for "complete-discrete" communication. - NCryptsion |
+| [Speek!](https://github.com/Speek-App/Speek) | Speek is serverless, stores no metadata, requires no ID or phone number and all messages including file transfers are end-to-end encrypted and routed via the Tor network. | N/A |
+| [Utopia](https://u.is/) | Utopia is a decentralized, privacy-focused ecosystem that includes secure messaging, file sharing, browsing, and more. | N/A |
+| [Element (formerly Riot)](https://element.io/en) | Open-source, decentralized messaging app built on the Matrix protocol. It allows for real-time messaging, video calls, and file sharing. | Best for communities. - NCryptsion |
+| [Session](https://getsession.org/) | Session is a private messenger app designed to give you full control over your communication. Built on top of the open-source Loki network. | Decent. - NCryptsion |
+
+### Centralize
+| Name | Description | Comments |
+| --- | --- | --- |
+| [Signal](https://signal.org/) | Privacy-focused messaging app that uses end-to-end encryption for secure communication. | Perfect alternative for your phone default Messaging app. - NCryptsion |
+| [Threema](https://threema.com/en) | Secure, privacy-focused messaging app that operates on a centralized model but offers robust encryption and anonymity features. | N/A |
+| [0xchat](https://www.0xchat.com/) | 0xchat is a secure chat app built on the Nostr protocol. | N/A |
+
+### P2P
+| Name | Description | Comments |
+| --- | --- | --- |
+| [Briar](https://briarproject.org/) | Secure, decentralized, uses peer-to-peer for offline communication, suitable for activists and those needing extra privacy. | N/A |
+| [Tox](https://tox.chat/) | Free, open-source, decentralized messaging with end-to-end encryption for text, voice, and video. | N/A |
+| [Jami](https://jami.net/) | Decentralized, open-source, fully encrypted messaging platform for text, voice, and video with no central server. | N/A |
+
 ## Utilities
+### Backup
+| Name | Description |  Comments |
+| --- | --- | --- |
+| [Syncthing](https://syncthing.net/) | A decentralized, peer-to-peer file synchronization tool that keeps folders in sync across devices without a central server. | N/A |
+| [RClone](https://rclone.org/) | A command-line tool for syncing, copying, and managing files across cloud storage providers and local filesystems. | N/A |
+| [Restic](https://restic.net/) | A fast, secure backup tool that creates encrypted, deduplicated, and versioned backups to local or remote storage. | N/A |
+
 ### Files Shredders
 | Name | Description |  Comments |
 | --- | --- | --- |
@@ -320,6 +336,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Brackets](https://brackets.io/) | Brackets is an open-source, lightweight text editor focused on web development. It was designed with front-end developers in mind, offering features that streamline the process of building websites. | N/A |
 | [Notepad++](https://notepad-plus-plus.org/) | Notepad++ is a popular, open-source text editor for Windows that offers a lightweight alternative to more resource-heavy IDEs. It supports syntax highlighting for over 80 programming languages, and its simple interface makes it ideal for quick edits and scripting tasks. | N/A |
 | [Void Editor](https://voideditor.com/) | Void is an open source Cursor alternative. Write code with the best AI tools, use any model, and retain full control over your data. | N/A |
+| [Vim](https://www.vim.org/) | A fast, keyboard-driven text editor built around modes (normal, insert, visual). Highly efficient once learned, extremely configurable, and runs almost everywhere. | Sexy asf. - NCryptsion |
+| [Neovim](https://neovim.io/) | A modern fork of Vim that keeps Vim’s editing model but adds better defaults, a cleaner codebase, built-in async support, and first-class plugin/LSP integration—more friendly for modern workflows. | Sexy asf++. - NCryptsion |
 
 ## Artificial Intelligence
 ### ChatGPT
