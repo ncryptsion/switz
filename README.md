@@ -9,6 +9,9 @@
 - [Quotes](#quotes)
 - [Top Countries](#top-countries)
 - [Payments](#payments)
+- [Operating Systems (OS)](#operating-systems-os)
+  - [Desktop](#desktop)
+  - [Android](#android)
 - [2FA](#2fa)
 - [Encryptions](#encryptions)
 - [Search Engines](#search-engines)
@@ -28,6 +31,8 @@
 - [Notes and Tasks](#notes-and-tasks)
 - [Office](#office)
 - [Link Shorteners](#link-shorteners)
+- [Cryptocurrency](#cryptocurrency)
+  - [Wallets](#wallets)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
 - [Messengers](#messengers)
@@ -79,6 +84,18 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | --- | --- |
 | [Monero](https://www.getmonero.org/) | Monero (XMR) is a privacy-focused cryptocurrency launched in 2014 as a fork of Bytecoin. It ensures anonymity by default for every transaction using ring signatures, stealth addresses, and RingCT to hide sender, receiver, and amount details. |
 | [Cash](https://en.wikipedia.org/wiki/Cash) | Literal physical cash, just be wise on how you want to transact to someone. |
+
+## Operating Systems (OS)
+### Desktop
+Any non-Windows operating systems.
+
+### Android
+| Name | Description |
+| --- | --- |
+| [GrapheneOS](https://grapheneos.org/) | A privacy and security-focused mobile OS built on Android. It’s designed to offer enhanced security features while maintaining usability. |
+| [CalyxOS](https://calyxos.org/) | A privacy-focused Android OS that balances security, privacy, and usability. It includes features like an integrated VPN, secure communications (via apps like Signal), and strong protections against data leakage, while also providing compatibility with Google services, which GrapheneOS doesn’t. |
+| [LineageOS](https://lineageos.org/) | A community-driven, open-source Android OS known for being a popular custom ROM. It offers more control and customization compared to stock Android and supports a wide range of devices. |
+| [Replicant](https://www.replicant.us/) | An open-source Android-based OS with a focus on freedom, privacy, and security. Replicant is different in that it tries to eliminate proprietary software (drivers and firmware) to ensure a fully free and open mobile experience. |
 
 ## 2FA
 | Name | Description |
@@ -181,6 +198,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Nym](https://nym.com/) | Nym is a privacy-focused network designed to provide secure, anonymous browsing by using a mix of VPN and onion routing technology. | <p align="center">✅</p> | N/A |
 | [ProtonVPN](https://protonvpn.com/) | ProtonVPN is created by the same team behind ProtonMail, emphasizing both privacy and security. | <p align="center">✅</p> | N/A |
 | [IPVanish](https://www.ipvanish.com/) | IPVanish is a well-established VPN service with a reputation for providing fast and secure connections. | <p align="center">✅</p> | N/A |
+| [LNVPN](https://lnvpn.net/) | LNVPN is a privacy-focused VPN service that offers secure, anonymous browsing. It focuses on encrypting users’ internet traffic and protecting their online activities from surveillance, tracking, and data leakage. | <p align="center">❌</p> | N/A |
+| [SPN](https://safing.io/) | SPN, developed by Safing, is a privacy network that provides secure and anonymous internet access by creating a layered security model that integrates VPN-like protection with additional privacy features. | <p align="center">❌</p> | N/A |
 
 ## DNS
 | Name | Description | No-Logging |
@@ -253,6 +272,18 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [MagLit](https://maglit.me/) | A Free and Open Source Encrypted Privacy Respecting Magnet/HTTP(s) Link Shortener. | N/A |
 | [Tnyr](https://tnyr.me/) | A URL shortening service with a focus on privacy, offering anonymous and secure links that don’t track users. | N/A |
 | [UrlVanish](https://urlvanish.com/) | A privacy-focused URL shortening service that hides tracking data, ensuring that shortened URLs do not reveal any personal information about the user. | N/A |
+
+## Cryptocurrency
+### Wallets
+| Name | Description | Type | Comments |
+| --- | --- | --- | --- |
+| [Trezor](https://trezor.io/) | A hardware wallet designed for secure storage of cryptocurrency private keys. Trezor provides cold storage for various cryptocurrencies, ensuring the safety of your assets by keeping them offline and away from potential online hacks. | ❄️ | The king. - NCryptsion |
+| [Ledger](https://www.ledger.com/) | Another popular hardware wallet for cryptocurrencies. Like Trezor, Ledger offers cold storage to keep your assets safe from online threats. | ❄️ | The best of best. - NCryptsion |
+| [Backpack](https://backpack.app/) | Backpack is a cryptocurrency wallet and Web3 browser with integrated tools for managing digital assets and interacting with decentralized applications (dApps). | 🔥 | N/A |
+| [MetaMask](https://metamask.io/) | A widely-used Ethereum-based crypto wallet and browser extension that lets users store and manage their Ether (ETH) and ERC-20 tokens. | 🔥 | The best hot-wallet ever. - NCryptsion |
+| [AlphaWallet](https://alphawallet.com/) | A mobile Ethereum wallet that provides users with the ability to store, manage, and transfer Ethereum and ERC-20 tokens.| 🔥 | N/A |
+| [Cake Wallet](https://cakewallet.com/) | A Monero (XMR) wallet focused on privacy and security. It allows users to store and manage Monero and its features align with the coin's privacy-centric design. | 🔥 | N/A |
+| [Rabby](https://rabby.io/) | Rabby is a browser extension and crypto wallet focused on supporting Ethereum and Ethereum-compatible chains. It integrates with decentralized finance (DeFi) protocols and supports multiple tokens. | 🔥 | N/A |
 
 ## Browsers
 | Name | Description | Comments |
