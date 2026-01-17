@@ -9,14 +9,10 @@
 - [Quotes](#quotes)
 - [Top Countries](#top-countries)
 - [Payments](#payments)
-- [Operating Systems (OS)](#operating-systems-os)
-  - [Desktop](#desktop)
-  - [Android](#android)
 - [2FA](#2fa)
 - [Encryptions](#encryptions)
 - [Search Engines](#search-engines)
 - [Cloud Storage](#cloud-storage)
-- [Email](#email)
 - [Accounts Managers](#accounts-managers)
 - [File Sharing](#file-sharing)
 - [Online SMS](#online-sms)
@@ -31,8 +27,15 @@
 - [Notes and Tasks](#notes-and-tasks)
 - [Office](#office)
 - [Link Shorteners](#link-shorteners)
+- [Recording](#recording)
+- [Video and Audio Conferencing](#video-and-audio-conferencing)
+- [Operating Systems (OS)](#operating-systems-os)
+  - [Desktop](#desktop)
+  - [Android](#android)
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
+- [Email](#email)
+  - [Aliases](#aliases)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
 - [Messengers](#messengers)
@@ -56,6 +59,7 @@
   - [Reddit](#reddit)
   - [Blogging](#blogging)
   - [Discord](#discord)
+  - [Discord Client](#discord-client)
 
 ## Quotes
 - *"Friends don’t spy; true friendship is about privacy, too."* - Stephen King
@@ -84,18 +88,6 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | --- | --- |
 | [Monero](https://www.getmonero.org/) | Monero (XMR) is a privacy-focused cryptocurrency launched in 2014 as a fork of Bytecoin. It ensures anonymity by default for every transaction using ring signatures, stealth addresses, and RingCT to hide sender, receiver, and amount details. |
 | [Cash](https://en.wikipedia.org/wiki/Cash) | Literal physical cash, just be wise on how you want to transact to someone. |
-
-## Operating Systems (OS)
-### Desktop
-Any non-Windows operating systems.
-
-### Android
-| Name | Description |
-| --- | --- |
-| [GrapheneOS](https://grapheneos.org/) | A privacy and security-focused mobile OS built on Android. It’s designed to offer enhanced security features while maintaining usability. |
-| [CalyxOS](https://calyxos.org/) | A privacy-focused Android OS that balances security, privacy, and usability. It includes features like an integrated VPN, secure communications (via apps like Signal), and strong protections against data leakage, while also providing compatibility with Google services, which GrapheneOS doesn’t. |
-| [LineageOS](https://lineageos.org/) | A community-driven, open-source Android OS known for being a popular custom ROM. It offers more control and customization compared to stock Android and supports a wide range of devices. |
-| [Replicant](https://www.replicant.us/) | An open-source Android-based OS with a focus on freedom, privacy, and security. Replicant is different in that it tries to eliminate proprietary software (drivers and firmware) to ensure a fully free and open mobile experience. |
 
 ## 2FA
 | Name | Description |
@@ -138,16 +130,6 @@ Any non-Windows operating systems.
 | [pCloud](https://www.pcloud.com/) | pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your team! | <p align="center">❌</p> | N/A |
 | [Sync](https://www.sync.com/en/) | Sync.com is a cloud storage service that places privacy and security at the forefront. It offers end-to-end encryption for all files stored in the cloud. | <p align="center">❌</p> |  N/A |
 | [Icedrive](https://icedrive.net/) | Icedrive is a cloud storage service focused on security, performance, and ease of use. It offers zero-knowledge encryption. | <p align="center">❌</p> | Great interface and policies, sadly it's not open-source. - NCryptsion |
-
-## Email
-| Name | Description | Jurisdiction | Comments |
-| --- | --- | --- | --- |
-| [Proton](https://protonmail.com/) | ProtonMail is a secure email provider that uses end-to-end encryption to ensure your emails are private and protected from unauthorized access. | <p align="center">🇨🇭</p> | Protonmail has tons of allegations regarding privacy, but it's still the best. - NCryptsion |
-| [Mailfence](https://mailfence.com/) | Mailfence is a secure email service that offers end-to-end encryption and a suite of privacy-focused tools, including calendar, contacts, and document storage. | <p align="center">🇧🇪</p> | N/A |
-| [Mailbox](https://mailbox.org/) | Mailbox.org is a secure email provider that offers encrypted communication, an intuitive interface, and a range of privacy-focused services, including file storage and calendar features. | <p align="center">🇩🇪</p> | N/A |
-| [Tuta](https://tuta.com/) | Tutanota is a secure email service offering end-to-end encryption for email communications and a strong commitment to privacy. | <p align="center">🇩🇪</p> | N/A |
-| [Soverin](https://soverin.com/) | Soverin is a secure email service focused on user privacy and independence. It provides encrypted email communication and offers a simple, no-tracking experience. | <p align="center">🇳🇱</p> | N/A |
-| [StartMail](https://www.startmail.com/) | StartMail is a privacy-focused email provider that offers strong encryption and the ability to send anonymous, self-destructing emails. | <p align="center">🇳🇱</p> | N/A |
 
 ## Accounts Managers
 | Name | Description | Comments |
@@ -273,6 +255,28 @@ Any non-Windows operating systems.
 | [Tnyr](https://tnyr.me/) | A URL shortening service with a focus on privacy, offering anonymous and secure links that don’t track users. | N/A |
 | [UrlVanish](https://urlvanish.com/) | A privacy-focused URL shortening service that hides tracking data, ensuring that shortened URLs do not reveal any personal information about the user. | N/A |
 
+## Recording
+| Name | Description | Comments |
+| --- | --- | --- |
+| [OBS](https://obsproject.com/) | A free, open-source tool for recording and livestreaming your screen, camera, and audio. It lets you mix multiple sources (like game capture, webcam, and mic), create scenes, and broadcast live to platforms such as YouTube or Twitch or simply save recordings locally. | N/A |
+
+## Video and Audio Conferencing
+| Name | Description | Comments |
+| --- | --- | --- |
+| [Jami](https://jami.net/) | A free, open-source, peer-to-peer communication app focused on privacy. It lets you chat, make voice/video calls, share files, and hold video conferences without central servers. All communication is end-to-end encrypted and directly between users. | N/A |
+
+## Operating Systems (OS)
+### Desktop
+Any non-Windows operating systems.
+
+### Android
+| Name | Description |
+| --- | --- |
+| [GrapheneOS](https://grapheneos.org/) | A privacy and security-focused mobile OS built on Android. It’s designed to offer enhanced security features while maintaining usability. |
+| [CalyxOS](https://calyxos.org/) | A privacy-focused Android OS that balances security, privacy, and usability. It includes features like an integrated VPN, secure communications (via apps like Signal), and strong protections against data leakage, while also providing compatibility with Google services, which GrapheneOS doesn’t. |
+| [LineageOS](https://lineageos.org/) | A community-driven, open-source Android OS known for being a popular custom ROM. It offers more control and customization compared to stock Android and supports a wide range of devices. |
+| [Replicant](https://www.replicant.us/) | An open-source Android-based OS with a focus on freedom, privacy, and security. Replicant is different in that it tries to eliminate proprietary software (drivers and firmware) to ensure a fully free and open mobile experience. |
+
 ## Cryptocurrency
 ### Wallets
 | Name | Description | Type | Comments |
@@ -284,6 +288,23 @@ Any non-Windows operating systems.
 | [AlphaWallet](https://alphawallet.com/) | A mobile Ethereum wallet that provides users with the ability to store, manage, and transfer Ethereum and ERC-20 tokens.| 🔥 | N/A |
 | [Cake Wallet](https://cakewallet.com/) | A Monero (XMR) wallet focused on privacy and security. It allows users to store and manage Monero and its features align with the coin's privacy-centric design. | 🔥 | N/A |
 | [Rabby](https://rabby.io/) | Rabby is a browser extension and crypto wallet focused on supporting Ethereum and Ethereum-compatible chains. It integrates with decentralized finance (DeFi) protocols and supports multiple tokens. | 🔥 | N/A |
+
+## Email
+| Name | Description | Jurisdiction | Comments |
+| --- | --- | --- | --- |
+| [Proton](https://protonmail.com/) | ProtonMail is a secure email provider that uses end-to-end encryption to ensure your emails are private and protected from unauthorized access. | <p align="center">🇨🇭</p> | Protonmail has tons of allegations regarding privacy, but it's still the best. - NCryptsion |
+| [Mailfence](https://mailfence.com/) | Mailfence is a secure email service that offers end-to-end encryption and a suite of privacy-focused tools, including calendar, contacts, and document storage. | <p align="center">🇧🇪</p> | N/A |
+| [Mailbox](https://mailbox.org/) | Mailbox.org is a secure email provider that offers encrypted communication, an intuitive interface, and a range of privacy-focused services, including file storage and calendar features. | <p align="center">🇩🇪</p> | N/A |
+| [Tuta](https://tuta.com/) | Tutanota is a secure email service offering end-to-end encryption for email communications and a strong commitment to privacy. | <p align="center">🇩🇪</p> | N/A |
+| [Soverin](https://soverin.com/) | Soverin is a secure email service focused on user privacy and independence. It provides encrypted email communication and offers a simple, no-tracking experience. | <p align="center">🇳🇱</p> | N/A |
+| [StartMail](https://www.startmail.com/) | StartMail is a privacy-focused email provider that offers strong encryption and the ability to send anonymous, self-destructing emails. | <p align="center">🇳🇱</p> | N/A |
+
+### Aliases
+| Name | Description | Comments |
+| --- | --- | --- |
+| [SimpleLogin](https://simplelogin.io/) | A privacy-focused, open-source email aliasing service that lets you create alternate email addresses to protect your real inbox. | "Our" favorite. - NCryptsion |
+| [Addy](https://addy.io/) | An open-source anonymous email forwarding service (formerly AnonAddy) where you register a username and then create unlimited email aliases under domains like @anonaddy.com or your own domain. | N/A |
+| [AliasVault](https://www.aliasvault.net/) | A privacy-first tool that combines password management with email alias generation and identity creation. | It's really good. - NCryptsion |
 
 ## Browsers
 | Name | Description | Comments |
@@ -439,6 +460,14 @@ Any non-Windows operating systems.
 | --- | --- |
 | [Stoat (formerly Revolt)](https://stoat.chat/) | The chat app where you are the main character. |
 | [Rocket](https://www.rocket.chat/) | Secure CommsOS™ for mission-critical operations. Bring together messaging, voice, video, critical apps, and AI to keep teams connected and missions protected. |
+
+### Discord Client
+| Name | Description |
+| --- | --- |
+| [Aliucord](https://github.com/Aliucord/Aliucord) | A modded version of the Discord Android app that lets you install custom plugins and themes to extend or change the interface and add new features (e.g., UI tweaks, enhanced message tools). |
+| [BetterDiscord](https://betterdiscord.app/) | An unofficial desktop Discord client mod that injects extra functionality into the standard Discord app, like support for custom themes and plugins, live CSS editing, and various UX tweaks. |
+| [Vencord](https://github.com/Vendicated/Vencord) | A modern Discord client modification (often used via an injector or patched client) that enhances Discord with built-in plugins and theme support, blocks analytics/telemetry, and offers a plugin browser. |
+| [Legcord](https://github.com/Legcord/Legcord) | A standalone custom Discord client (not just a patch of the official app) that wraps Discord’s web client with extra features: built-in mod support (e.g., Vencord), theme support (including BetterDiscord themes), tracker blocking, better stability/performance, and cross-platform compatibility. Like others here, it’s not officially sanctioned by Discord. |
 
 <div align="center">
   <sub>This project is distributed under <a href="/LICENSE"><b>MIT License</b></a></sub>
