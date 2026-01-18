@@ -47,11 +47,13 @@
   - [Files Shredders](#files-shredders)
   - [Metadata Removal](#metadata-removal)
 - [Development](#development)
+  - [Analytics](#analytics)
   - [App Notifications](#app-notifications)
   - [Code Editors](#code-editors)
 - [Artificial Intelligence](#artificial-intelligence)
   - [ChatGPT](#chatgpt)
 - [Alternatives](#alternatives)
+  - [Android App Store](#android-app-store)
   - [Github](#github)
   - [Facebook/Instagram/Twitter](#facebookinstagramtwitter)
   - [Youtube](#youtube)
@@ -264,6 +266,9 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | Name | Description | Comments |
 | --- | --- | --- |
 | [Jami](https://jami.net/) | A free, open-source, peer-to-peer communication app focused on privacy. It lets you chat, make voice/video calls, share files, and hold video conferences without central servers. All communication is end-to-end encrypted and directly between users. | N/A |
+| [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | An open-source video conferencing platform that allows secure, easy-to-use, and scalable video meetings without the need for an account. | N/A |
+| [Jam](https://github.com/jam-systems/jam) | An open-source audio communication tool, often used for team collaboration or group conversations, focusing on simplicity and ease of use. | N/A |
+| [Mumble](https://www.mumble.info/) | A low-latency, high-quality voice chat application, typically used by gamers and communities for group voice communication, with a focus on privacy. | N/A |
 
 ## Operating Systems (OS)
 ### Desktop
@@ -375,6 +380,17 @@ Any non-Windows operating systems.
 | [ImageOptim](https://imageoptim.com/mac) | A Mac image optimization tool that reduces file size without losing quality and also strips out unnecessary metadata (including EXIF) to save disk space and speed up web delivery. | N/A |
 
 ## Development
+### Analytics
+| Name | Description | Jurisdiction | Open-Source | Comments |
+| --- | --- | --- | --- | --- |
+| [Counterdev](https://github.com/ihucos/counter.dev) | An open-source web analytics platform focused on privacy and simple tracking solutions. | N/A | <p align="center">✅</p> | My favorite. - NCryptsion |
+| [Plausible](https://plausible.io/) | A privacy-friendly alternative to Google Analytics, offering simple and ethical web analytics without tracking personal data. | <p align="center">🇫🇮</p> | <p align="center">✅</p> | N/A |
+| [Rybbit](https://rybbit.com/) | A privacy-focused web analytics tool (backed by NCryptsion), designed to be more secure and anonymous. | N/A | <p align="center">✅</p> | Perhaps the most advance and clean privacy-focused web analytics ever. - NCryptsion |
+| [Matomo](https://matomo.org/) | An open-source, privacy-friendly analytics platform, often considered a top alternative to Google Analytics. | <p align="center">🇳🇿</p> | <p align="center">✅</p> | N/A |
+| [Shynet](https://github.com/milesmcc/shynet) | A self-hosted, privacy-centric web analytics tool, designed to be simple, fast, and free of tracking cookies. | N/A | <p align="center">✅</p> | N/A |
+| [Ackee](https://ackee.electerious.com/) | A self-hosted, privacy-focused web analytics tool that provides beautiful insights and works well with minimal data collection. | N/A | <p align="center">✅</p> | N/A |
+| [GoatCounter](https://github.com/arp242/goatcounter) | A simple, privacy-conscious web analytics tool that doesn’t use cookies and can be self-hosted. | N/A | <p align="center">✅</p> | N/A |
+
 ### App Notifications
 | Name | Description |  Comments |
 | --- | --- | --- |
@@ -406,6 +422,13 @@ Any non-Windows operating systems.
 | [Venice](https://venice.ai/) | Venice offers the most advanced and accurate open-source models for a truly unbiased AI experience. All data stays on your device, not our servers. | Decent. - NCryptsion |
 
 ## Alternatives
+### Android App Store
+| Name | Description |
+| --- | --- |
+| [F-Droid](https://f-droid.org/) | A platform offering open-source Android apps, with a focus on privacy and security. |
+| [FossDroid](https://fossdroid.com/) | A website that catalogs open-source Android apps, similar to F-Droid, emphasizing free software. |
+| [Aurora Store](https://auroraoss.com/) | An alternative Android app store that allows users to download apps from the Google Play Store anonymously. |
+
 ### Github
 | Name | Description |
 | --- | --- |
