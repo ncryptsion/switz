@@ -32,6 +32,9 @@
 - [Operating Systems (OS)](#operating-systems-os)
   - [Desktop](#desktop)
   - [Android](#android)
+- [Android](#android-1)
+  - [Launchers](#launchers)
+  - [Gallery](#gallery)
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
 - [Email](#email)
@@ -52,6 +55,8 @@
   - [Code Editors](#code-editors)
 - [Artificial Intelligence](#artificial-intelligence)
   - [ChatGPT](#chatgpt)
+- [Fork](#fork)
+  - [Signal Messenger](#signal-messenger)
 - [Alternatives](#alternatives)
   - [Android App Store](#android-app-store)
   - [Github](#github)
@@ -282,6 +287,22 @@ Any non-Windows operating systems.
 | [LineageOS](https://lineageos.org/) | A community-driven, open-source Android OS known for being a popular custom ROM. It offers more control and customization compared to stock Android and supports a wide range of devices. |
 | [Replicant](https://www.replicant.us/) | An open-source Android-based OS with a focus on freedom, privacy, and security. Replicant is different in that it tries to eliminate proprietary software (drivers and firmware) to ensure a fully free and open mobile experience. |
 
+## Android
+### Launchers
+| Name | Description | Comments |
+| --- | --- | --- |
+| [Lawnchair](https://lawnchair.app/) | No clever tagline needed. | My one and only launcher! - NCryptsion |
+| [KISSLauncher](https://kisslauncher.com/) | Launcher for Android requiring nearly no memory to run. | Freakily beautiful. - NCryptsion |
+| [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) | Customizable and Open Source Launcher for Android. | N/A |
+| [OLauncher](https://github.com/tanujnotes/Olauncher) | Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers. | N/A |
+
+### Gallery
+| Name | Description |
+| --- | --- |
+| [Gallery](https://github.com/FossifyOrg/Gallery) | Browse your memories without any interruptions with this photo and video gallery. |
+| [Aves](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. |
+| [Simple Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery&hl=en_GB) | Simple Gallery brings you all the photo viewing and editing features you have been missing on your Android in one stylish easy-to-use app. |
+
 ## Cryptocurrency
 ### Wallets
 | Name | Description | Type | Comments |
@@ -420,6 +441,12 @@ Any non-Windows operating systems.
 | [Tinfoil](https://tinfoil.sh/) | A privacy-focused AI platform that runs AI workloads inside secure hardware enclaves (confidential computing). | N/A |
 | [Duck.AI](https://duck.ai/) | While not directly local-AI, Duck.ai (Duck AI) is DuckDuckGo’s AI chatbot powered by OpenAI’s open-source models (e.g., gpt-oss:120B), emphasizing privacy, no accounts required and anonymized interactions though inference runs on DuckDuckGo’s servers rather than purely local.| Data is still sent to the respective servers. - NCryptsion |
 | [Venice](https://venice.ai/) | Venice offers the most advanced and accurate open-source models for a truly unbiased AI experience. All data stays on your device, not our servers. | Decent. - NCryptsion |
+
+## Fork
+### Signal Messenger
+| Name | Description |
+| --- | --- |
+| [Molly](https://github.com/mollyim/mollyim-android) | Enhanced and security-focused fork of Signal. |
 
 ## Alternatives
 ### Android App Store
