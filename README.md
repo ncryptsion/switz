@@ -35,10 +35,13 @@
 - [Android](#android-1)
   - [Launchers](#launchers)
   - [Gallery](#gallery)
+- [Platforms](#platforms)
+  - [Whistleblowing](#whistleblowing)
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
 - [Email](#email)
   - [Aliases](#aliases)
+  - [Clients](#clients)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
 - [Messengers](#messengers)
@@ -56,7 +59,9 @@
 - [Artificial Intelligence](#artificial-intelligence)
   - [ChatGPT](#chatgpt)
 - [Fork](#fork)
-  - [Signal Messenger](#signal-messenger)
+  - [Signal (Messenger)](#signal-messenger)
+  - [Telegram (Messenger)](#telegram-messenger)
+  - [Thunderbird (Mail Client)](#thunderbird-mail-client)
 - [Alternatives](#alternatives)
   - [Android App Store](#android-app-store)
   - [Github](#github)
@@ -177,6 +182,9 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [IPFS](https://about.ipfs.io/) | IPFS is a decentralized file storage and sharing network. It aims to make the web more distributed and resilient by using a peer-to-peer protocol. |
 | [I2P](https://geti2p.net/en/) | I2P is a privacy-focused network that provides anonymous communication. Unlike Tor, which is designed primarily for web browsing, I2P is intended for applications that require high levels of anonymity and security. |
 | [Hyphanet](https://www.hyphanet.org/) | Hyphanet is a lesser-known decentralized network that allows users to build private, secure, and censorship-resistant communication systems. |
+| [Retroshare](https://retroshare.cc/) | Retroshare is a decentralized, open-source communication platform that allows users to send messages, share files, and make voice/video calls securely, without relying on a central server. |
+| [Lokinet](https://lokinet.org/) | Lokinet is a privacy-focused, decentralized internet protocol that enables users to access the internet anonymously. |
+| [GNUNet](https://www.gnunet.org/) | GNUNet is a free software framework for decentralized, peer-to-peer networking. |
 
 ## VPN
 | Name | Description | Audited | Comments |
@@ -214,6 +222,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Hiddence](https://hiddence.net/) | Hiddence specializes in secure, anonymous VPS hosting with features like encrypted storage and Monero-only billing to prevent tracking. |
 | [BitLaunch](https://bitlaunch.io/) | BitLaunch enables one-click deployment of privacy-centric VPS on providers worldwide, accepting Monero and prioritizing anti-censorship tools. |
 | [AnonVM](https://anonvm.wtf/?language=english) | AnonVM delivers virtual machines optimized for anonymity, with Tor integration and exclusive Monero support for fully untraceable cloud computing. |
+| [Privex](https://www.privex.io/) | Privex is a privacy-focused service provider that offers secure, anonymous hosting and virtual private server (VPS) solutions. |
+| [Bahnhof](https://bahnhof.cloud/) | Bahnhof is a Swedish-based hosting provider known for its commitment to privacy and freedom of speech. They offer cloud and VPS services, emphasizing strong data protection policies and operating in jurisdictions that support digital privacy. |
 
 ## Paste
 | Name | Description |
@@ -241,6 +251,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [SiYuan](https://github.com/siyuan-note/siyuan) | Privacy-first, open-source knowledge management app with block-level editing, bidirectional links, Markdown/WYSIWYG editor, and rich features for organizing large or complex content. |
 | [Logseq](https://logseq.com/) | Free, open-source PKM (personal knowledge base) app centered on outlining, bidirectional links, and local Markdown/org-mode files; excellent for hierarchical notes and research tracking. |
 | [Trilium Notes](https://github.com/zadam/trilium) | Hierarchical, database-backed note app focused on complex structure and deep organization (nested notes, rich properties, automation), suitable for large knowledge bases. |
+| [Cryptee](https://crypt.ee/) | Cryptee is a privacy-first, encrypted cloud service for storing and editing documents, photos, and notes. All your data is end-to-end encrypted on your device before it’s uploaded, so even the service can’t read it. |
+| [Joplin](https://joplinapp.org/) | Joplin is a free, open-source note-taking and to-do app available across platforms that organizes notes and tasks into notebooks with Markdown formatting.program to test wireless capability |
 
 **Tasks**
 | Name | Description |
@@ -303,6 +315,14 @@ Any non-Windows operating systems.
 | [Aves](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. |
 | [Simple Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery&hl=en_GB) | Simple Gallery brings you all the photo viewing and editing features you have been missing on your Android in one stylish easy-to-use app. |
 
+## Platforms
+### Whistleblowing
+| Name | Description |
+| --- | --- |
+| [GlobaLeaks](https://www.globaleaks.org/) | GlobaLeaks is a free, open-source whistleblowing platform that organizations use to collect sensitive reports securely and anonymously. |
+| [SecureDrop](https://securedrop.org/) | SecureDrop is an open-source secure communication system that lets journalists and sources exchange information and documents safely. |
+| [NotMe](https://not-me.com/) | NotMe (#NotMe) is a whistleblowing and misconduct reporting platform (often via a phone app) that enables individuals like employees to report unethical or unsafe behavior — anonymously. |
+
 ## Cryptocurrency
 ### Wallets
 | Name | Description | Type | Comments |
@@ -331,6 +351,12 @@ Any non-Windows operating systems.
 | [SimpleLogin](https://simplelogin.io/) | A privacy-focused, open-source email aliasing service that lets you create alternate email addresses to protect your real inbox. | "Our" favorite. - NCryptsion |
 | [Addy](https://addy.io/) | An open-source anonymous email forwarding service (formerly AnonAddy) where you register a username and then create unlimited email aliases under domains like @anonaddy.com or your own domain. | N/A |
 | [AliasVault](https://www.aliasvault.net/) | A privacy-first tool that combines password management with email alias generation and identity creation. | It's really good. - NCryptsion |
+
+### Clients
+| Name | Description |
+| --- | --- |
+| [Thunderbird](https://www.thunderbird.net/en-US/) | Mozilla Thunderbird is a email client, personal information manager, news client, RSS and chat client. |
+| [K-9 Mail](https://k9mail.app/) | K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email. |
 
 ## Browsers
 | Name | Description | Comments |
@@ -443,10 +469,22 @@ Any non-Windows operating systems.
 | [Venice](https://venice.ai/) | Venice offers the most advanced and accurate open-source models for a truly unbiased AI experience. All data stays on your device, not our servers. | Decent. - NCryptsion |
 
 ## Fork
-### Signal Messenger
+### Signal (Messenger)
 | Name | Description |
 | --- | --- |
 | [Molly](https://github.com/mollyim/mollyim-android) | Enhanced and security-focused fork of Signal. |
+
+### Telegram (Messenger)
+| Name | Description |
+| --- | --- |
+| [Forkgram](https://github.com/forkgram/TelegramAndroid) | Forkgram is a simple fork of the Telegram Messenger with a few minor improvements. |
+| [Nekogram](https://github.com/Nekogram/Nekogram) | Open-source third-party Telegram client with not many but useful modifications. |
+| [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free. |
+
+### Thunderbird (Mail Client)
+| Name | Description |
+| --- | --- |
+| [Betterbird](https://www.betterbird.eu/) | Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will. |
 
 ## Alternatives
 ### Android App Store
