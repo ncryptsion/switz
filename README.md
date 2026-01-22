@@ -35,6 +35,7 @@
 - [Android](#android-1)
   - [Launchers](#launchers)
   - [Gallery](#gallery)
+  - [Dialer](#dialer)
 - [Platforms](#platforms)
   - [Whistleblowing](#whistleblowing)
 - [Cryptocurrency](#cryptocurrency)
@@ -49,6 +50,7 @@
   - [Centralize](#centralize)
   - [P2P](#p2p)
 - [Utilities](#utilities)
+  - [Torrent Clients](#torrent-clients)
   - [Backup](#backup)
   - [Files Shredders](#files-shredders)
   - [Metadata Removal](#metadata-removal)
@@ -315,6 +317,14 @@ Any non-Windows operating systems.
 | [Aves](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. |
 | [Simple Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery&hl=en_GB) | Simple Gallery brings you all the photo viewing and editing features you have been missing on your Android in one stylish easy-to-use app. |
 
+### Dialer
+| Name | Description |
+| --- | --- |
+| [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) | Manage phone calls with this simple phone dialer app with phonebook |
+| [Koler](https://github.com/Chooloo/koler) | A dialer, but it's simple and looks pretty good honestly! |
+| [Call Manager](https://github.com/GroovinChip/call_manager) | Call Manager is a cross-platform application for scheduling and keeping track of phone calls. |
+| [Fossify Phone](https://github.com/FossifyOrg/Phone) | Empower your calls, and safeguard your data. Fossify Phone redefines the mobile app experience with unmatched privacy and efficiency. |
+
 ## Platforms
 ### Whistleblowing
 | Name | Description |
@@ -405,6 +415,14 @@ Any non-Windows operating systems.
 | [Jami](https://jami.net/) | Decentralized, open-source, fully encrypted messaging platform for text, voice, and video with no central server. | N/A |
 
 ## Utilities
+### Torrent Clients
+| Name | Description | Comments |
+| --- | --- | --- |
+| [Webtor](https://webtor.io/) | Browser-based torrent tool that helps you download, stream, and access torrent content without installing a torrent client. | My 2nd favorite. - NCryptsion |
+| [qBitTorrent](https://www.qbittorrent.org/) | The qBittorrent project aims to provide an open-source software alternative to µTorrent. | My favorite. - NCryptsion |
+| [Transmission](https://transmissionbt.com/) | A Fast, Easy and Free Bittorrent Client. | N/A |
+| [Deluge](https://deluge-torrent.org/) | Deluge is a lightweight, Free Software, cross-platform BitTorrent client. | N/A |
+
 ### Backup
 | Name | Description |  Comments |
 | --- | --- | --- |
