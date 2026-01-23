@@ -41,6 +41,8 @@
   - [Whistleblowing](#whistleblowing)
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
+- [Privacy](#privacy)
+  - [Browser Privacy](#browser-privacy)
 - [Email](#email)
   - [Aliases](#aliases)
   - [Clients](#clients)
@@ -51,6 +53,7 @@
   - [Centralize](#centralize)
   - [P2P](#p2p)
 - [Utilities](#utilities)
+  - [Download Manager](#download-manager)
   - [Torrent Clients](#torrent-clients)
   - [Backup](#backup)
   - [Files Shredders](#files-shredders)
@@ -360,6 +363,16 @@ Any non-Windows operating systems.
 | [Cake Wallet](https://cakewallet.com/) | A Monero (XMR) wallet focused on privacy and security. It allows users to store and manage Monero and its features align with the coin's privacy-centric design. | 🔥 | N/A |
 | [Rabby](https://rabby.io/) | Rabby is a browser extension and crypto wallet focused on supporting Ethereum and Ethereum-compatible chains. It integrates with decentralized finance (DeFi) protocols and supports multiple tokens. | 🔥 | N/A |
 
+## Privacy
+### Browser Privacy
+| Name | Description |
+| --- | --- |
+| [Cover your Tracks](https://coveryourtracks.eff.org/) | Test your browser to see how well you are protected from tracking and fingerprinting: Test Your Browser Test with a real tracking company? |
+| [BrowserLeaks](https://browserleaks.com/) | BrowserLeaks is a suite of tools that offers a range of tests to evaluate the security and privacy of your web browser. |
+| [Privacy](https://privacy.net/analyzer/) | What information can a website find out about you when you visit it? A lot more than you probably realize. |
+| [Privacy Tests](https://privacytests.org/) | Open-source tests of web browser privacy. |
+
+
 ## Email
 | Name | Description | Jurisdiction | Comments |
 | --- | --- | --- | --- |
@@ -426,10 +439,18 @@ Any non-Windows operating systems.
 | Name | Description | Comments |
 | --- | --- | --- |
 | [Briar](https://briarproject.org/) | Secure, decentralized, uses peer-to-peer for offline communication, suitable for activists and those needing extra privacy. | N/A |
-| [Tox](https://tox.chat/) | Free, open-source, decentralized messaging with end-to-end encryption for text, voice, and video. | N/A |
+| [Tox](https://tox.chat/) | Free, open-source, decentralized messaging with end-to-end encryption for text, voice, and video. | Hackers favorite. - NCryptsion |
 | [Jami](https://jami.net/) | Decentralized, open-source, fully encrypted messaging platform for text, voice, and video with no central server. | N/A |
 
 ## Utilities
+### Download Manager
+| Name | Description |
+| --- | --- |
+| [XDM](https://github.com/subhra74/xdm) | Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save videos from popular video streaming websites, resume broken/dead downloads, schedule and convert downloads. |
+| [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
+| [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. Persepolis is a sample of free and open-source software. It's developed for GNU/Linux distributions, BSDs, macOS, and Microsoft Windows. |
+| [AB Download Manager](https://abdownloadmanager.com/) | With this app, you can easily download files from anywhere. Enjoy fast, free downloads with seamless browser extension support. |
+
 ### Torrent Clients
 | Name | Description | Comments |
 | --- | --- | --- |
