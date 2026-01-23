@@ -26,6 +26,7 @@
 - [Online Image Editors](#online-image-editors)
 - [Notes and Tasks](#notes-and-tasks)
 - [Office](#office)
+- [Forms](#forms)
 - [Link Shorteners](#link-shorteners)
 - [Recording](#recording)
 - [Video and Audio Conferencing](#video-and-audio-conferencing)
@@ -269,6 +270,19 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [OnlyOffice](https://www.onlyoffice.com/) | Run your private office with ONLYOFFICE a complete office suite to view, edit, and collaborate on docs, sheets and slides, build and fill PDF forms, and work across web, desktop and mobile platforms, designed to make collaboration seamless and secure with open source code. |
 | [Cryptpad](https://cryptpad.fr/) | CryptPad is a collaborative office suite that is end-to-end encrypted and open-source, providing real-time editing with a full suite of apps while ensuring that no readable user data leaves the user’s device. |
 
+## Forms
+| Name | Description |
+| --- | --- |
+| [Formbricks](https://formbricks.com/) | Open-source survey and feedback platform you can self-host (or use cloud) to build forms, targeted surveys, and experience management with flexible integration and strong privacy control. |
+| [Tally](https://tally.so/) | User-friendly online form builder with a doc-like interface, no signup required, unlimited forms/submissions, conditional logic, payment collection, and integrations. |
+| [Cryptpad Form](https://cryptpad.fr/form) | Part of the privacy-focused CryptPad suite lets you create online forms/surveys in an end-to-end encrypted collaboration environment that protects respondent data. |
+| [Forms](https://forms.app/) | Generally accessible online form builder for creating surveys, quizzes, lead-gen and data collection forms with integrations and automation support (e.g., Zapier). |
+| [Framaforms](https://framaforms.org/abc/en/) | Free/libre web form service based on open software (Yakforms) that respects privacy and minimal data collection, though with usage limitations (e.g., response and lifetime caps). |
+| [Nextcloud Forms](https://apps.nextcloud.com/apps/forms) | Form app inside the Nextcloud ecosystem: a simple, self-hosted form builder for Nextcloud users integrated with their storage and tools. |
+| [Yakforms](https://yakforms.org/en/) | Open-source drag-and-drop form builder (successor to Framaforms’ underlying tech), letting you build, share, embed and analyze forms; supports self-hosting. |
+| [Input](https://getinput.co/) | No-code form builder focused on simple, clean forms that you can brand and customize, with self-host options and basic data collection. |
+| [Liberaforms](https://liberaforms.org/en) | Community-driven, free/libre online form platform promoting ethical data handling; often seen as an alternative to proprietary form services and increasingly tied to Framaforms’ ecosystem. |
+
 ## Link Shorteners
 | Name | Description | Comments |
 | --- | --- | --- |
@@ -280,6 +294,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | Name | Description | Comments |
 | --- | --- | --- |
 | [OBS](https://obsproject.com/) | A free, open-source tool for recording and livestreaming your screen, camera, and audio. It lets you mix multiple sources (like game capture, webcam, and mic), create scenes, and broadcast live to platforms such as YouTube or Twitch or simply save recordings locally. | N/A |
+| [Screenity](https://screenity.io/) | A screen recorder that's free, private, and friendly. | N/A |
 
 ## Video and Audio Conferencing
 | Name | Description | Comments |
@@ -369,14 +384,14 @@ Any non-Windows operating systems.
 | [K-9 Mail](https://k9mail.app/) | K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email. |
 
 ## Browsers
-| Name | Description | Comments |
-| --- | --- | --- |
-| [Tor Browser](https://www.torproject.org/) | Tor Browser is a free, open-source browser that enables anonymous communication on the internet. | Perhaps the most anonymous browser ever. - NCryptsion |
-| [LibreWolf](https://librewolf.net/) | LibreWolf is a browser based on Firefox that focuses on privacy, security, and freedom. | N/A |
-| [Brave](https://brave.com/) | Brave is a privacy-focused browser that blocks ads, trackers, and other unwanted content by default. | N/A |
-| [Firefox](https://www.mozilla.org/firefox) | Firefox is a fast, privacy-focused browser that is open-source and designed to give users control over their online experience. | N/A |
-| [Iridium](https://iridiumbrowser.de/) | Iridium Browser is a privacy-focused web browser that is based on Chromium. | N/A |
-| [Thorium](https://thorium.rocks/) | Thorium is a web browser based on Chromium with a strong focus on privacy and open-source principles. | N/A |
+| Name | Description | Device | Comments |
+| --- | --- | --- | --- |
+| [Tor Browser](https://www.torproject.org/) | Tor Browser is a free, open-source browser that enables anonymous communication on the internet. | Cross-Platform | Perhaps the most anonymous browser ever. - NCryptsion |
+| [LibreWolf](https://librewolf.net/) | LibreWolf is a browser based on Firefox that focuses on privacy, security, and freedom. | Cross-Platform | N/A |
+| [Brave](https://brave.com/) | Brave is a privacy-focused browser that blocks ads, trackers, and other unwanted content by default. | Cross-Platform | N/A |
+| [Firefox](https://www.mozilla.org/firefox) | Firefox is a fast, privacy-focused browser that is open-source and designed to give users control over their online experience. | Cross-Platform | N/A |
+| [Iridium](https://iridiumbrowser.de/) | Iridium Browser is a privacy-focused web browser that is based on Chromium. | N/A | N/A |
+| [Thorium](https://thorium.rocks/) | Thorium is a web browser based on Chromium with a strong focus on privacy and open-source principles. | Cross-Platform | N/A |
 
 ### Chrome Extensions
 | Name | Description |
