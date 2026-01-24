@@ -38,6 +38,8 @@
   - [Gallery](#gallery)
   - [Dialer](#dialer)
 - [Platforms](#platforms)
+  - [Links in Bio (Profile)](#links-in-bio-profile)
+  - [Networking](#networking)
   - [Whistleblowing](#whistleblowing)
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
@@ -344,6 +346,24 @@ Any non-Windows operating systems.
 | [Fossify Phone](https://github.com/FossifyOrg/Phone) | Empower your calls, and safeguard your data. Fossify Phone redefines the mobile app experience with unmatched privacy and efficiency. |
 
 ## Platforms
+### Links in Bio (Profile)
+Those with the Indication "Careful", You can contact the owners and see if you can pay with Monero or cryptocurrency, then simply adjust your privacy setup because the websites still log certain "sensitive" information such as device information even though minimal.
+
+| Name | Description | Indication |
+| --- | --- | --- |
+| [LinkStack](https://linkstack.org/) | LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface. | Safe |
+| [BioDrop](https://github.com/EddieHubCommunity/BioDrop) | Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe. | Safe |
+| [Keyoxide](https://keyoxide.org/) | Keyoxide is a decentralized tool to create and verify decentralized online identities. | Safe |
+| [Feds](https://feds.lol/) | Create stunning bio links, showcase your content, and connect with your audience. feds.lol gives you the tools to build your online presence — beautifully. | Careful |
+| [E-Z Host](https://e-z.host/) | E-Z.host is a service that utilizes upload tools like ShareX to capture screenshots and video clips to instantly get a shareable link. It has hosting and bio links. | Careful |
+| [Guns](https://guns.lol/) | Your go-to for modern, feature-rich link-in-bio pages and fast, secure file hosting. | Careful |
+| [Frozi](https://frozi.lol/) | Your essential platform for creating modern, customizable bio-pages to meet all your digital needs. | Careful |
+
+### Networking
+| Name | Description |
+| --- | --- |
+| [Peerlist](https://peerlist.io/) | Peerlist is a professional network where you can showcase your proof of work, and get hired by the best companies. |
+
 ### Whistleblowing
 | Name | Description |
 | --- | --- |
@@ -427,6 +447,7 @@ Any non-Windows operating systems.
 | [Utopia](https://u.is/) | Utopia is a decentralized, privacy-focused ecosystem that includes secure messaging, file sharing, browsing, and more. | N/A |
 | [Element (formerly Riot)](https://element.io/en) | Open-source, decentralized messaging app built on the Matrix protocol. It allows for real-time messaging, video calls, and file sharing. | Best for communities. - NCryptsion |
 | [Session](https://getsession.org/) | Session is a private messenger app designed to give you full control over your communication. Built on top of the open-source Loki network. | Decent. - NCryptsion |
+| [Status](https://status.app/) | Use the open-source, decentralised wallet and messenger. | N/A |
 
 ### Centralize
 | Name | Description | Comments |
