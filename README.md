@@ -28,6 +28,7 @@
 - [Office](#office)
 - [Forms](#forms)
 - [Link Shorteners](#link-shorteners)
+- [Video Editors](#video-editors)
 - [Recording](#recording)
 - [Video and Audio Conferencing](#video-and-audio-conferencing)
 - [Operating Systems (OS)](#operating-systems-os)
@@ -161,6 +162,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [PSono](https://psono.com/) | PSono is a self-hosted, open-source password manager built with a strong emphasis on privacy and security. | N/A | 
 | [KeePass](https://keepass.info/) | KeePass is a free, open-source password manager that helps you securely store your passwords in an encrypted database. | N/A |
 | [Proton Pass](https://proton.me/pass) | Proton Pass is a password manager developed by Proton, the creators of ProtonMail. It is designed to offer the same level of privacy and security as Proton’s other services. | N/A |
+| [LessPass](https://lesspass.com/) | Stop wasting your time synchronizing your encrypted vault. Remember one master password to access your passwords, anywhere, anytime, from any device. No sync needed. | N/A |
+| [Padloc](https://padloc.app/) | Padloc not only helps you remember all your passwords, it also securely stores credit cards, notes, documents and more! | N/A |
 
 ## File Sharing
 | Name | Description | Comments |
@@ -294,6 +297,15 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [MagLit](https://maglit.me/) | A Free and Open Source Encrypted Privacy Respecting Magnet/HTTP(s) Link Shortener. | N/A |
 | [Tnyr](https://tnyr.me/) | A URL shortening service with a focus on privacy, offering anonymous and secure links that don’t track users. | N/A |
 | [UrlVanish](https://urlvanish.com/) | A privacy-focused URL shortening service that hides tracking data, ensuring that shortened URLs do not reveal any personal information about the user. | N/A |
+
+## Video Editors
+| Name | Description |
+| --- | --- |
+| [OpenShot](https://github.com/OpenShot/openshot-qt) | OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world. |
+| [Kdenlive](https://kdenlive.org/) | Kdenlive is the acronym for KDE Non-Linear Video Editor. It works on Linux, Windows, macOS, and BSD. Free and Open Source Video Editor. |
+| [Olive Video Editor](https://github.com/olive-editor/olive) | Free open-source non-linear video editor. |
+| [OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative. |
+| [Shotcut](https://www.shotcut.org/) | Shotcut is a free, open source, cross-platform video editor. |
 
 ## Recording
 | Name | Description | Comments |
@@ -584,6 +596,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Diaspora](https://diasporafoundation.org/) | A distributed social network focused on privacy and decentralization, where users can choose which of the federated "pods" (servers) they want to join, and own their data. |
 | [Minds](https://www.minds.com/) | A decentralized social platform focused on freedom of speech and privacy, with the ability for users to earn cryptocurrency (Minds tokens) based on engagement. |
 | [Nitter](https://nitter.net/) | Nitter is a free and open source alternative Twitter front-end focused on privacy and performance. |
+| [Feetter](https://codeberg.org/pluja/Feetter) | Create and manage anonymous feeds in Nitter with a simple, fast web interface. |
 
 ### Youtube
 | Name | Description |
@@ -597,6 +610,13 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [Invidious](https://github.com/iv-org/invidious) | A free open-source alternative frontend for YouTube. It lets you watch YouTube content without ads, tracking, or Google’s official scripts, offering features like playlists and subscriptions while respecting privacy. |
 | [Piped](https://github.com/TeamPiped/Piped) | Open-source and lightweight. Like Invidious, it lets you watch and browse YouTube videos without ads or tracking, and you can self-host instances. |
+
+**Apps**
+| Name | Description |
+| --- | --- |
+| [NewPipe](https://newpipe.net/) | NewPipe has been created with the purpose of getting the original YouTube experience on your smartphone without annoying ads and questionable permissions. |
+| [LibreTube](https://github.com/Libre-tube/LibreTube) | An alternative frontend for YouTube, for Android. |
+| [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | Copylefted libre/open source YouTube player for Android. |
 
 ### Wikipedia
 | Name | Description |
