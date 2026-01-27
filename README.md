@@ -38,6 +38,7 @@
   - [Launchers](#launchers)
   - [Gallery](#gallery)
   - [Dialer](#dialer)
+  - [Sandbox](#sandbox)
 - [Platforms](#platforms)
   - [Links in Bio (Profile)](#links-in-bio-profile)
   - [Networking](#networking)
@@ -65,6 +66,8 @@
   - [Analytics](#analytics)
   - [App Notifications](#app-notifications)
   - [Code Editors](#code-editors)
+  - [Captchas](#captchas)
+  - [Comments Engines](#comments-engines)
 - [Artificial Intelligence](#artificial-intelligence)
   - [ChatGPT](#chatgpt)
 - [Fork](#fork)
@@ -357,6 +360,12 @@ Any non-Windows operating systems.
 | [Call Manager](https://github.com/GroovinChip/call_manager) | Call Manager is a cross-platform application for scheduling and keeping track of phone calls. |
 | [Fossify Phone](https://github.com/FossifyOrg/Phone) | Empower your calls, and safeguard your data. Fossify Phone redefines the mobile app experience with unmatched privacy and efficiency. |
 
+### Sandbox
+| Name | Description |
+| --- | --- |
+| [Island](https://island.oasisfeng.com/) | “Island” is a sandbox environment to clone “Island” is a sandbox environment to clone selected apps and isolate them from accessing your personal data outside the sandbox (including call logs, contacts, photos and etc) even if related permissions are granted. |
+| [Insular](https://gitlab.com/secure-system/Insular) | This is a fork based on the excellent Island. Extra credit to Shelter which inspired me to make the completely FLOSS fork of Island. |
+
 ## Platforms
 ### Links in Bio (Profile)
 Those with the Indication "Careful", You can contact the owners and see if you can pay with Monero or cryptocurrency, then simply adjust your privacy setup because the websites still log certain "sensitive" information such as device information even though minimal.
@@ -540,6 +549,23 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Void Editor](https://voideditor.com/) | Void is an open source Cursor alternative. Write code with the best AI tools, use any model, and retain full control over your data. | N/A |
 | [Vim](https://www.vim.org/) | A fast, keyboard-driven text editor built around modes (normal, insert, visual). Highly efficient once learned, extremely configurable, and runs almost everywhere. | Sexy asf. - NCryptsion |
 | [Neovim](https://neovim.io/) | A modern fork of Vim that keeps Vim’s editing model but adds better defaults, a cleaner codebase, built-in async support, and first-class plugin/LSP integration—more friendly for modern workflows. | Sexy asf++. - NCryptsion |
+
+### Captchas
+| Name | Description |
+| --- | --- |
+| [mCaptcha](https://mcaptcha.org/) | mCaptcha is proof-of-work based captcha system that is privacy focused and fully automated. |
+| [PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) | Independent, privacy-first, self-hostable PoW CAPTCHA service made in EU. |
+| [Cap](https://github.com/tiagozip/cap) | The privacy-first, self-hosted CAPTCHA for the modern web. |
+| [Altcha](https://altcha.org/) | Secure your data and users with the privacy-first alternative to reCAPTCHA. ALTCHA eliminates tracking, cookies, and fingerprinting, delivering a robust, accessible, and globally compliant security without a single puzzle. |
+| [GoCaptcha](https://github.com/wenlng/go-captcha) | GoCaptcha is a behavior captcha, which implements click mode, slider mode, drag-drop mode and rotation mode. |
+| [Friendly Captcha](https://friendlycaptcha.com/) | Protect your websites and apps from spam and abuse with a privacy-compliant and accessible alternative to traditional CAPTCHAs. Friendly Captcha respects your user’s privacy and works automatically, so your users don’t have to do anything. |
+
+### Comments Engines
+| Name | Description |
+| --- | --- |
+| [Remark42](https://remark42.com/) | Remark42 allows you to have a self-hosted, lightweight, and simple (yet functional) comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. |
+| [Comentario](https://comentario.app/) | Add comments to your web page or blog in a matter of minutes. |
+| [Cusdis](https://github.com/djyde/cusdis) | Cusdis is an open-source, lightweight (~5kb gzip), privacy-friendly alternative to Disqus. |
 
 ## Artificial Intelligence
 ### ChatGPT
