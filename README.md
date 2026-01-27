@@ -36,9 +36,12 @@
   - [Android](#android)
 - [Android](#android-1)
   - [Launchers](#launchers)
+  - [Files Manager](#files-manager)
   - [Gallery](#gallery)
   - [Dialer](#dialer)
+  - [Keyboard](#keyboard)
   - [Sandbox](#sandbox)
+  - [Debloaters](#debloaters)
 - [Platforms](#platforms)
   - [Links in Bio (Profile)](#links-in-bio-profile)
   - [Networking](#networking)
@@ -122,6 +125,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Ente](https://ente.io/auth/) | Ente is a privacy-focused 2FA app that offers time-based one-time passwords. |
 | [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) | FreeOTP Plus is an open-source 2FA app that enhances the original FreeOTP by providing more features, like backup and multi-device support. |
 | [Owky](https://github.com/charlietango/owky) | Owky is a user-friendly 2FA app focused on providing seamless multi-account support. It generates time-based, one-time passcodes (TOTP) for various online platforms. |
+| [Etopa 2FA](https://play.google.com/store/apps/details?id=de.ltheinrich.etopa) | Etopa is a free and open source (FOSS) app for two-factor-authentication (2FA). The app can use the Etopa.de instance or an own server. |
+| [Authentication](https://mattrubin.me/authenticator/) | Authenticator is a simple, free, and open source two-factor authentication app. Two-Factor Authentication Client for iOS. |
 
 ## Encryptions
 | Name | Description |
@@ -345,6 +350,14 @@ Any non-Windows operating systems.
 | [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) | Customizable and Open Source Launcher for Android. | N/A |
 | [OLauncher](https://github.com/tanujnotes/Olauncher) | Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers. | N/A |
 
+### Files Manager
+| Name | Description |
+| --- | --- |
+| [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) | Dual panel file manager, like Norton Commander, Midnight Commander or Total |
+| [Material Files](https://github.com/zhanghai/MaterialFiles) | An open source Material Design file manager, for Android 5.0+. |
+| [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) | Easy app for managing your files without ads, respecting your privacy & security |
+| [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) | Material design file manager for Android. |
+
 ### Gallery
 | Name | Description |
 | --- | --- |
@@ -360,11 +373,27 @@ Any non-Windows operating systems.
 | [Call Manager](https://github.com/GroovinChip/call_manager) | Call Manager is a cross-platform application for scheduling and keeping track of phone calls. |
 | [Fossify Phone](https://github.com/FossifyOrg/Phone) | Empower your calls, and safeguard your data. Fossify Phone redefines the mobile app experience with unmatched privacy and efficiency. |
 
+### Keyboard
+| Name | Description |
+| --- | --- |
+| [Futo Keyboard](https://keyboard.futo.org/) | Your keyboard shouldn't connect to the internet. We are building a modern keyboard that respects your privacy and security. |
+| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) | Just a simple keyboard. |
+| [OpenBoard](https://github.com/openboard-team/openboard) | 100% FOSS keyboard, based on AOSP. |
+| [HeliBoard](https://github.com/Helium314/HeliBoard) | Customizable and privacy-conscious open-source keyboard. |
+
+
 ### Sandbox
 | Name | Description |
 | --- | --- |
 | [Island](https://island.oasisfeng.com/) | “Island” is a sandbox environment to clone “Island” is a sandbox environment to clone selected apps and isolate them from accessing your personal data outside the sandbox (including call logs, contacts, photos and etc) even if related permissions are granted. |
 | [Insular](https://gitlab.com/secure-system/Insular) | This is a fork based on the excellent Island. Extra credit to Shelter which inspired me to make the completely FLOSS fork of Island. |
+
+### Debloaters
+| Name | Description |
+| --- | --- |
+| [Universal Android Debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
+| [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/) | This is a detached fork of the UAD project. This aims to improve privacy and efficiency (energy, speed, memory) by removing unnecessary and obscure system apps. |
+
 
 ## Platforms
 ### Links in Bio (Profile)
