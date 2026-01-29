@@ -25,6 +25,7 @@
 - [Paste](#paste)
 - [Online Image Editors](#online-image-editors)
 - [Notes and Tasks](#notes-and-tasks)
+- [Translation](#translation)
 - [Office](#office)
 - [Forms](#forms)
 - [Link Shorteners](#link-shorteners)
@@ -32,6 +33,9 @@
 - [Video Editors](#video-editors)
 - [Recording](#recording)
 - [Video and Audio Conferencing](#video-and-audio-conferencing)
+- [Remote Control](#remote-control)
+  - [General](#general)
+  - [RDP](#rdp)
 - [Operating Systems (OS)](#operating-systems-os)
   - [Desktop](#desktop)
   - [Android](#android)
@@ -43,6 +47,7 @@
   - [Keyboard](#keyboard)
   - [Sandbox](#sandbox)
   - [Debloaters](#debloaters)
+  - [Utilities](#utilities)
 - [Platforms](#platforms)
   - [Links in Bio (Profile)](#links-in-bio-profile)
   - [Networking](#networking)
@@ -63,7 +68,7 @@
   - [Decentralize](#decentralize)
   - [Centralize](#centralize)
   - [P2P](#p2p)
-- [Utilities](#utilities)
+- [Utilities](#utilities-1)
   - [Cloaking Images](#cloaking-images)
   - [Cloaking Text](#cloaking-text)
   - [Download Manager](#download-manager)
@@ -286,6 +291,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | --- | --- |
 | [Vikunja](https://vikunja.io/) | Open-source, self-hostable task and project management app — to-do lists, boards, timelines, and collaborative task tracking for individuals or teams. |
 
+## Translation
+| Name | Description |
+| --- | --- |
+| [LibreTranslate](https://libretranslate.com/) | Open Source Machine Translation API. Free to download. Offline Capable. Easy to Setup. |
+| [Apertium](https://apertium.org/index.eng.html#?dir=eng-epo&q) | A free/open-source machine translation platform. |
+| [Linguist](https://linguister.io/) | Linguist is a privacy‑focused, full‑featured translation solution. |
+
 ## Office
 | Name | Description |
 | --- | --- |
@@ -343,6 +355,19 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | An open-source video conferencing platform that allows secure, easy-to-use, and scalable video meetings without the need for an account. | N/A |
 | [Jam](https://github.com/jam-systems/jam) | An open-source audio communication tool, often used for team collaboration or group conversations, focusing on simplicity and ease of use. | N/A |
 | [Mumble](https://www.mumble.info/) | A low-latency, high-quality voice chat application, typically used by gamers and communities for group voice communication, with a focus on privacy. | N/A |
+
+## Remote Control
+### General
+| Name | Description |
+| --- | --- |
+| [Remmina](https://remmina.org/) | Remote access screen and file sharing to your desktop. |
+
+### RDP
+| Name | Description |
+| --- | --- |
+| [RustDesk](https://rustdesk.com/) | Switch from TeamViewer, AnyDesk, and Splashtop to RustDesk for a secure and reliable remote desktop experience with your own self-hosted servers. |
+| [TightVNC](https://www.tightvnc.com/) | TightVNC is a free and Open Source remote desktop software that lets you access and control a computer over the network. |
+| [UltraVNC](https://uvnc.com/) | UltraVNC is a powerful, easy to use and free - remote pc access softwares - that can display the screen of another computer (via internet or network) on your own screen. |
 
 ## Operating Systems (OS)
 ### Desktop
@@ -409,6 +434,11 @@ Any non-Windows operating systems.
 | [Universal Android Debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
 | [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/) | This is a detached fork of the UAD project. This aims to improve privacy and efficiency (energy, speed, memory) by removing unnecessary and obscure system apps. |
 
+### Utilities
+| Name | Description |
+| --- | --- |
+| [Exodus](https://reports.exodus-privacy.eu.org/en/) | The privacy audit platform for Android applications. |
+| [Plexus](https://plexus.techlore.tech/) | App compatibility on de-Googled devices. |
 
 ## Platforms
 ### Links in Bio (Profile)
