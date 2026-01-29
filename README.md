@@ -28,6 +28,7 @@
 - [Office](#office)
 - [Forms](#forms)
 - [Link Shorteners](#link-shorteners)
+- [Photo Editors](#photo-editors)
 - [Video Editors](#video-editors)
 - [Recording](#recording)
 - [Video and Audio Conferencing](#video-and-audio-conferencing)
@@ -48,6 +49,9 @@
   - [Whistleblowing](#whistleblowing)
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
+- [Personal Finances](#personal-finances)
+  - [Full-Feature](#full-feature)
+  - [Budgeting](#budgeting)
 - [Privacy](#privacy)
   - [Browser Privacy](#browser-privacy)
 - [Email](#email)
@@ -60,6 +64,8 @@
   - [Centralize](#centralize)
   - [P2P](#p2p)
 - [Utilities](#utilities)
+  - [Cloaking Images](#cloaking-images)
+  - [Cloaking Text](#cloaking-text)
   - [Download Manager](#download-manager)
   - [Torrent Clients](#torrent-clients)
   - [Backup](#backup)
@@ -73,6 +79,7 @@
   - [Comments Engines](#comments-engines)
 - [Artificial Intelligence](#artificial-intelligence)
   - [ChatGPT](#chatgpt)
+  - [CoPilot](#copilot)
 - [Fork](#fork)
   - [Signal (Messenger)](#signal-messenger)
   - [Telegram (Messenger)](#telegram-messenger)
@@ -84,6 +91,7 @@
   - [Youtube](#youtube)
   - [Wikipedia](#wikipedia)
   - [Reddit](#reddit)
+  - [Figma](#figma)
   - [Blogging](#blogging)
   - [Discord](#discord)
   - [Discord Client](#discord-client)
@@ -306,6 +314,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Tnyr](https://tnyr.me/) | A URL shortening service with a focus on privacy, offering anonymous and secure links that don’t track users. | N/A |
 | [UrlVanish](https://urlvanish.com/) | A privacy-focused URL shortening service that hides tracking data, ensuring that shortened URLs do not reveal any personal information about the user. | N/A |
 
+## Photo Editors
+| Name | Description |
+| --- | --- |
+| [Gimp](https://www.gimp.org/) | GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes. |
+| [Krita](https://krita.org/en/) | Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone. |
+| [Inkscape](https://inkscape.org/) | Whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery, Inkscape is for you! |
+
 ## Video Editors
 | Name | Description |
 | --- | --- |
@@ -433,6 +448,23 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Cake Wallet](https://cakewallet.com/) | A Monero (XMR) wallet focused on privacy and security. It allows users to store and manage Monero and its features align with the coin's privacy-centric design. | 🔥 | N/A |
 | [Rabby](https://rabby.io/) | Rabby is a browser extension and crypto wallet focused on supporting Ethereum and Ethereum-compatible chains. It integrates with decentralized finance (DeFi) protocols and supports multiple tokens. | 🔥 | N/A |
 
+## Personal Finances
+### Full-Feature
+| Name | Description |
+| --- | --- |
+| [HomeBank](https://www.gethomebank.org/) | HomeBank is a free software (as in "free speech" and also as in "free beer") that will assist you to manage your personal accounting. |
+| [MoneyManager Ex](https://moneymanagerex.org/) | Open-source, cross-platform, software that helps you organize your finances and keep track of where, when and to who the money goes. It is also a great tool to get a bird's eye view of your financial worth. |
+| [Firefly III](https://www.firefly-iii.org/) | A free and open source personal finance manager. |
+| [GNUCash](https://gnucash.org/) | GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows. |
+| [ezBookkeeping](https://ezbookkeeping.mayswind.net/) | A open source, lightweight, self-hosted personal finance app. |
+| [Actual](https://actualbudget.org/) | Actual Budget is a super fast and privacy-focused app for managing your finances. At its heart is the well proven and much loved Envelope Budgeting methodology. |
+
+### Budgeting
+| Name | Description |
+| --- | --- |
+| [ProExpense](https://github.com/arduia/ProExpense/) | Simple free finance note for daily expenses. |
+| [BudgetZen](https://github.com/BrunoBernardino/budgetzen-web) | Simple, Encrypted Budgets & Expenses. |
+
 ## Privacy
 ### Browser Privacy
 | Name | Description |
@@ -514,6 +546,17 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Jami](https://jami.net/) | Decentralized, open-source, fully encrypted messaging platform for text, voice, and video with no central server. | N/A |
 
 ## Utilities
+### Cloaking Images
+| Name | Description |
+| --- | --- |
+| [Fawkes](https://github.com/Shawn-Shan/fawkes) | Fawkes, privacy preserving tool against facial recognition systems. |
+| [Image Scrubber](https://github.com/everestpipkin/image-scrubber) | A friendly browser-based tool for anonymizing photographs taken at protests. |
+
+### Cloaking Text
+| Name | Description |
+| --- | --- |
+| [StegCloak](https://stegcloak.surge.sh/) | Hide secrets with invisible characters in plain text securely using passwords. |
+
 ### Download Manager
 | Name | Description |
 | --- | --- |
@@ -610,6 +653,12 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Duck.AI](https://duck.ai/) | While not directly local-AI, Duck.ai (Duck AI) is DuckDuckGo’s AI chatbot powered by OpenAI’s open-source models (e.g., gpt-oss:120B), emphasizing privacy, no accounts required and anonymized interactions though inference runs on DuckDuckGo’s servers rather than purely local.| Data is still sent to the respective servers. - NCryptsion |
 | [Venice](https://venice.ai/) | Venice offers the most advanced and accurate open-source models for a truly unbiased AI experience. All data stays on your device, not our servers. | Decent. - NCryptsion |
 
+### CoPilot
+| Name | Description |
+| --- | --- |
+| [Continue](https://github.com/continuedev/continue) | Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent. |
+| [Cline](https://cline.bot/) | The Open Coding Agent Ship securely w/ GPT. |
+
 ## Fork
 ### Signal (Messenger)
 | Name | Description |
@@ -685,6 +734,11 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [KBin](https://kbin.earth/) | A free, open-source federated Reddit-like content aggregator and microblogging platform running on the ActivityPub-based Fediverse network. |
 | [Lemmy](https://join-lemmy.org/) | An open-source federated social news aggregator that lets anyone host self-run discussion forums (“instances”) which communicate with each other via the ActivityPub protocol. |
 | [Dread (Tor)](https://www.onionlinkhub.com/links/dread/) | An anonymous, Reddit-like discussion forum hosted on the dark web via a Tor .onion service. Founded in 2018 as a successor to dark web darknet market discussion communities after Reddit banned them. |
+
+### Figma
+| Name | Description |
+| --- | --- |
+| [Penpot](https://penpot.app/) | Penpot is the web-based open-source design tool that bridges the gap between designers and developers. |
 
 ### Blogging
 | Name | Description | Comment |
