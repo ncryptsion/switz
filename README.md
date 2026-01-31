@@ -54,9 +54,14 @@
   - [Whistleblowing](#whistleblowing)
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
+- [Photo Storage](#photo-storage)
+  - [Online](#online)
+  - [Self-Hosted](#self-hosted)
 - [Personal Finances](#personal-finances)
   - [Full-Feature](#full-feature)
   - [Budgeting](#budgeting)
+  - [Portfolio Trackers](#portfolio-trackers)
+  - [Others](#others)
 - [Privacy](#privacy)
   - [Browser Privacy](#browser-privacy)
 - [Email](#email)
@@ -95,6 +100,7 @@
   - [Facebook/Instagram/Twitter](#facebookinstagramtwitter)
   - [Youtube](#youtube)
   - [Wikipedia](#wikipedia)
+  - [Medium](#medium)
   - [Reddit](#reddit)
   - [Figma](#figma)
   - [Blogging](#blogging)
@@ -478,6 +484,21 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Cake Wallet](https://cakewallet.com/) | A Monero (XMR) wallet focused on privacy and security. It allows users to store and manage Monero and its features align with the coin's privacy-centric design. | 🔥 | N/A |
 | [Rabby](https://rabby.io/) | Rabby is a browser extension and crypto wallet focused on supporting Ethereum and Ethereum-compatible chains. It integrates with decentralized finance (DeFi) protocols and supports multiple tokens. | 🔥 | N/A |
 
+## Photo Storage
+### Online
+| Name | Description |
+| --- | --- |
+| [Ente](https://ente.io/) | Safe home for your photos. End-to-end encrypted. Cross-platform. Open-source. |
+| [Stingle Photos](https://stingle.org/) | Stingle Photos is a convenient, easy to use Gallery/Camera application with Backup and Sync functionality for your photos and videos which seamlessly provides strong security, privacy and encryption. |
+
+### Self-Hosted
+| Name | Description |
+| --- | --- |
+| [PhotoPrism](https://www.photoprism.app/) | PhotoPrism® is an AI-Powered Photos App for the Decentralized Web. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud. |
+| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
+| [Photoview](https://photoview.github.io/) | Photo gallery for self-hosted personal servers. |
+| [PiGallery2](https://bpatrik.github.io/pigallery2/) | PiGallery2 is a fast directory-first photo gallery website, optimized for running on low-resource servers (especially on Raspberry Pi). |
+
 ## Personal Finances
 ### Full-Feature
 | Name | Description |
@@ -494,6 +515,17 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [ProExpense](https://github.com/arduia/ProExpense/) | Simple free finance note for daily expenses. |
 | [BudgetZen](https://github.com/BrunoBernardino/budgetzen-web) | Simple, Encrypted Budgets & Expenses. |
+
+### Portfolio Trackers
+| Name | Description |
+| --- | --- |
+| [Rotki](https://github.com/rotki/rotki) | A portfolio tracking, analytics, accounting and management application that protects your privacy |
+| [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | Ghostfolio is an open source wealth management software built with web technology. The application empowers busy people to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions. The software is designed for personal use in continuous operation. |
+
+### Others
+| Name | Description |
+| --- | --- |
+| [Debitum](https://github.com/Marmo/debitum) | Free and libre IOU tracker for Android. |
 
 ## Privacy
 ### Browser Privacy
@@ -756,6 +788,12 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | Name | Description |
 | --- | --- |
 | [Wikiless](https://github.com/Metastem/Wikiless) | Wikiless is a free, open-source Wikipedia alternative, focused on privacy. The project aims to deliver a more secure, anonymous browsing experience by minimizing data collection. |
+
+### Medium
+| Name | Description |
+| --- | --- |
+| [WriteFreely](https://writefreely.org/) | An open source platform for building a writing space on the web. |
+| [Plume](https://github.com/Plume-org/Plume) | Plume is a federated blogging engine, based on ActivityPub. It is written in Rust, with the Rocket framework, and Diesel to interact with the database. The front-end uses Ructe templates, WASM and SCSS. |
 
 ### Reddit
 | Name | Description |
