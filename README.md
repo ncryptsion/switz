@@ -23,6 +23,7 @@
 - [Domain](#domain)
 - [VPS](#vps)
 - [Paste](#paste)
+- [Home Assistants](#home-assistants)
 - [Online Image Editors](#online-image-editors)
 - [Notes and Tasks](#notes-and-tasks)
 - [Translation](#translation)
@@ -90,6 +91,9 @@
 - [Artificial Intelligence](#artificial-intelligence)
   - [ChatGPT](#chatgpt)
   - [CoPilot](#copilot)
+- [Fitness and Health](#fitness-and-health)
+  - [Trackers](#trackers)
+  - [Medical](#medical)
 - [Fork](#fork)
   - [Signal (Messenger)](#signal-messenger)
   - [Telegram (Messenger)](#telegram-messenger)
@@ -272,6 +276,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [ProtectedText](https://www.protectedtext.com/) | ProtectedText is an online, encrypted note-sharing platform that allows users to store and share sensitive text securely. |
 | [CodedPad](https://www.codedpad.com/) | CodedPad is an online code-sharing and collaboration tool that allows users to share and edit code in real-time. |
 | [PrivNote](https://privnote.com/) | PrivNote is a secure messaging platform that lets users send self-destructive notes, which are encrypted and automatically deleted once they've been read. |
+
+## Home Assistants
+| Name | Description |
+| --- | --- |
+| [openHab](https://www.openhab.org/) | A vendor and technology agnostic open source automation software for your home. |
+| [Home Assistant](https://www.home-assistant.io/) | Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
+| [Calaos](https://calaos.fr/en/) | Calaos is a free software project (GPLv3) that lets you control and monitor your home. You can easily install and use it to transform your home into a smart home. |
 
 ## Online Image Editors
 | Name | Description |
@@ -720,6 +731,18 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [Continue](https://github.com/continuedev/continue) | Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent. |
 | [Cline](https://cline.bot/) | The Open Coding Agent Ship securely w/ GPT. |
+
+## Fitness and Health
+### Trackers
+| Name | Description |
+| --- | --- |
+| [OpenTracks](https://github.com/OpenTracksApp/OpenTracks) | OpenTracks is a sport tracking application that completely respects your privacy. |
+| [FitoTrack](https://codeberg.org/jannis/FitoTrack) | FitoTrack is a mobile app for logging and viewing your workouts. Whether you're running, cycling or hiking, FitoTrack will show you the most important information, with detailed charts and statistics. It is open-source and completely ad-free. |
+
+### Medical
+| Name | Description |
+| --- | --- |
+| [Fasten](https://github.com/fastenhealth/fasten-onprem) | Fasten securely connects your healthcare providers together, creating a personal health record that never leaves your hands. |
 
 ## Fork
 ### Signal (Messenger)
