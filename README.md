@@ -23,6 +23,7 @@
 - [Domain](#domain)
 - [VPS](#vps)
 - [Paste](#paste)
+- [Maps and Navigation](#maps-and-navigation)
 - [Home Assistants](#home-assistants)
 - [Online Image Editors](#online-image-editors)
 - [Notes and Tasks](#notes-and-tasks)
@@ -106,6 +107,7 @@
   - [Wikipedia](#wikipedia)
   - [Medium](#medium)
   - [Reddit](#reddit)
+  - [Spotify](#spotify)
   - [Figma](#figma)
   - [Blogging](#blogging)
   - [Discord](#discord)
@@ -202,6 +204,10 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [QuAx](https://qu.ax/) | QuAx is a privacy-focused decentralized web hosting platform that allows users to create and manage websites securely, offering anonymity through the use of Tor and IPFS technology, while minimizing the risk of censorship. | My favorite, really good owner. - NCryptsion |
 | [OnionShare](https://onionshare.org/) | OnionShare is an open-source tool that enables users to securely and anonymously share files over the Tor network. | For Tor lover. - NCryptsion |
 | [Wormhole](https://wormhole.app/) | Wormhole is a fast and secure peer-to-peer file transfer tool that uses end-to-end encryption. | This one is OG. - NCryptsion |
+| [Blaze](https://blaze.vercel.app/) | Using just a web browser to any device on the Internet! | N\A |
+| [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper. | N\A |
+| [Send](https://gitlab.com/timvisee/send) | A fork of Mozilla's Firefox Send. Mozilla discontinued Send, this fork is a community effort to keep the project up-to-date and alive. | N\A |
+| [Croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another 🐊 📦 | N/A |
 
 ## Online SMS
 | Name | Description |
@@ -276,6 +282,12 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [ProtectedText](https://www.protectedtext.com/) | ProtectedText is an online, encrypted note-sharing platform that allows users to store and share sensitive text securely. |
 | [CodedPad](https://www.codedpad.com/) | CodedPad is an online code-sharing and collaboration tool that allows users to share and edit code in real-time. |
 | [PrivNote](https://privnote.com/) | PrivNote is a secure messaging platform that lets users send self-destructive notes, which are encrypted and automatically deleted once they've been read. |
+
+## Maps and Navigation
+| Name | Description |
+| --- | --- |
+| [OpenStreetMap](https://www.openstreetmap.org/) | OpenStreetMap is a map of the world, created by people like you and free to use under an open license. |
+| [Organic Maps](https://organicmaps.app/) | Organic Maps is a privacy-focused offline maps & GPS app for hiking, cycling, biking, and driving. Absolutely free. No ads. No tracking. |
 
 ## Home Assistants
 | Name | Description |
@@ -825,6 +837,13 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [KBin](https://kbin.earth/) | A free, open-source federated Reddit-like content aggregator and microblogging platform running on the ActivityPub-based Fediverse network. |
 | [Lemmy](https://join-lemmy.org/) | An open-source federated social news aggregator that lets anyone host self-run discussion forums (“instances”) which communicate with each other via the ActivityPub protocol. |
 | [Dread (Tor)](https://www.onionlinkhub.com/links/dread/) | An anonymous, Reddit-like discussion forum hosted on the dark web via a Tor .onion service. Founded in 2018 as a successor to dark web darknet market discussion communities after Reddit banned them. |
+
+### Spotify
+| Name | Description |
+| --- | --- |
+| [BladePlayer](https://github.com/vhaudiquet/BladePlayer) | Android music player that plays from multiple sources. |
+| [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! |
+| [Riff](https://github.com/Diegovsky/riff) | Native Spotify client for the GNOME desktop. |
 
 ### Figma
 | Name | Description |
