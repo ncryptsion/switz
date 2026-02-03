@@ -69,6 +69,7 @@
 - [Email](#email)
   - [Aliases](#aliases)
   - [Clients](#clients)
+  - [Security](#security)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
 - [Messengers](#messengers)
@@ -450,7 +451,6 @@ Any non-Windows operating systems.
 | [OpenBoard](https://github.com/openboard-team/openboard) | 100% FOSS keyboard, based on AOSP. |
 | [HeliBoard](https://github.com/Helium314/HeliBoard) | Customizable and privacy-conscious open-source keyboard. |
 
-
 ### Sandbox
 | Name | Description |
 | --- | --- |
@@ -468,6 +468,8 @@ Any non-Windows operating systems.
 | --- | --- |
 | [Exodus](https://reports.exodus-privacy.eu.org/en/) | The privacy audit platform for Android applications. |
 | [Plexus](https://plexus.techlore.tech/) | App compatibility on de-Googled devices. |
+| [Greetooth](https://gitlab.com/nbergman/greentooth) | This app disables Bluetooth automatically when the last Bluetooth device has been disconnected. |
+| [Guardian Project](https://guardianproject.info/) | We are a global team who builds and designs easy to use secure apps, open-source. |
 
 ## Platforms
 ### Links in Bio (Profile)
@@ -583,6 +585,12 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Thunderbird](https://www.thunderbird.net/en-US/) | Mozilla Thunderbird is a email client, personal information manager, news client, RSS and chat client. |
 | [K-9 Mail](https://k9mail.app/) | K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email. |
 
+### Security
+| Name | Description |
+| --- | --- |
+| [DKIM Verifier](https://addons.thunderbird.net/en-US/thunderbird/addon/dkim-verifier/?collection_id=a5557f08-eafd-7a39-81c6-09127da790f7) | Verifies the DKIM-Signature of an e-mail. |
+| [Email Privacy Tester](https://www.emailprivacytester.com/) | Some email clients perform operations when reading an email which give away information about the reader, to the sender of the message. If you enter your email address into the form on my home page, this web app will send you a confirmation email to make sure you own the email address. |
+
 ## Browsers
 | Name | Description | Device | Comments |
 | --- | --- | --- | --- |
@@ -604,6 +612,8 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Decentraleyes](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj?hl=en) | Decentraleyes is a privacy extension that focuses on reducing reliance on third-party servers for delivering web resources like scripts, fonts, and stylesheets. |
 | [PixelBlock](https://chromewebstore.google.com/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem) | Gmail extension that blocks email tracking attempts used to detect when you open and read emails. PixelBlock displays a 'red eye' when it finds and blocks a tracking attempt inside of an email. |
 | [minerBlock](https://chromewebstore.google.com/detail/minerblock/dgcjdgkiclbfekoepomcjmifmgejhdga) | Blocks cryptocurrency miners all over the web. |
+| [Canvas Blocker](https://webextension.org/listing/canvas-fingerprint-blocker.html) | Prevent HTML canvas element from generating a unique identification key to protect user's privacy. |
+| [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) | Some web pages use intermediary pages before redirecting to a final page. This webextension tries to extract the final url from the intermediary url and goes there straight away if successful. |
 
 ## Messengers
 ### Decentralize
@@ -615,6 +625,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Element (formerly Riot)](https://element.io/en) | Open-source, decentralized messaging app built on the Matrix protocol. It allows for real-time messaging, video calls, and file sharing. | Best for communities. - NCryptsion |
 | [Session](https://getsession.org/) | Session is a private messenger app designed to give you full control over your communication. Built on top of the open-source Loki network. | Decent. - NCryptsion |
 | [Status](https://status.app/) | Use the open-source, decentralised wallet and messenger. | N/A |
+| [XMPP](https://xmpp.org/) | The universal messaging standard Tried and tested. Independent. Privacy-focused. | N/A |
 
 ### Centralize
 | Name | Description | Comments |
