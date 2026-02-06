@@ -64,12 +64,17 @@
   - [Budgeting](#budgeting)
   - [Portfolio Trackers](#portfolio-trackers)
   - [Others](#others)
+- [Self-Hosted](#self-hosted-1)
+  - [Network Security](#network-security)
+- [Proxy](#proxy)
+  - [Clients](#clients)
 - [Privacy](#privacy)
   - [Browser Privacy](#browser-privacy)
 - [Email](#email)
   - [Aliases](#aliases)
-  - [Clients](#clients)
+  - [Clients](#clients-1)
   - [Security](#security)
+  - [Temporary](#temporary)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
 - [Messengers](#messengers)
@@ -470,6 +475,7 @@ Any non-Windows operating systems.
 | [Plexus](https://plexus.techlore.tech/) | App compatibility on de-Googled devices. |
 | [Greetooth](https://gitlab.com/nbergman/greentooth) | This app disables Bluetooth automatically when the last Bluetooth device has been disconnected. |
 | [Guardian Project](https://guardianproject.info/) | We are a global team who builds and designs easy to use secure apps, open-source. |
+| [NetGuard](https://netguard.me/) | A simple way to block access to the internet per application. |
 
 ## Platforms
 ### Links in Bio (Profile)
@@ -552,6 +558,21 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [Debitum](https://github.com/Marmo/debitum) | Free and libre IOU tracker for Android. |
 
+## Self-Hosted
+### Network Security
+| Name | Description |
+| --- | --- |
+| [Pi-hole](https://pi-hole.net/) | Linux-based network-level ad and tracker blocker that acts as a DNS sinkhole, filtering and blocking unwanted content across all devices on a private network. |
+| [pfSense](https://www.pfsense.org/) | Secure networks start here.™ With thousands of enterprises using pfSense® software, it is rapidly becoming the world's most trusted open source network security solution. |
+| [IPFire](https://www.ipfire.org/) | Secure Your Network with IPFire – The Open-Source Firewall You Can Trust. |
+
+## Proxy
+### Clients
+| Name | Description |
+| --- | --- |
+| [Privoxy](https://www.privoxy.org/) | Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. |
+| [Shadowsocks](https://shadowsocks.org/) | A fast tunnel proxy that helps you bypass firewalls. |
+
 ## Privacy
 ### Browser Privacy
 | Name | Description |
@@ -591,6 +612,14 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [DKIM Verifier](https://addons.thunderbird.net/en-US/thunderbird/addon/dkim-verifier/?collection_id=a5557f08-eafd-7a39-81c6-09127da790f7) | Verifies the DKIM-Signature of an e-mail. |
 | [Email Privacy Tester](https://www.emailprivacytester.com/) | Some email clients perform operations when reading an email which give away information about the reader, to the sender of the message. If you enter your email address into the form on my home page, this web app will send you a confirmation email to make sure you own the email address. |
 
+### Temporary
+| Name | Description |
+| --- | --- |
+| [Internxt](https://internxt.com/temporary-email) | Receive emails anonymously with our free, private, and secure temporary email address generator. |
+| [Temp Mail](https://temp-mail.org/en) | Disposable email - is a free email service that allows to receive email at a temporary address that self-destructed after a certain time elapses. |
+| [Mail](https://mail.tm/) | Protect your personal email address from spam, bots, phishing, and other online abuse with our free temporary disposable anonymous email service. |
+| [Emailnator](https://emailnator.com/) | Gmailnator is a free service that allows getting instant temporary email it is also known as "tempmail", "10 minute mail", "throw away mail", "disposable mail", fake email, and "trash mail". |
+
 ## Browsers
 | Name | Description | Device | Comments |
 | --- | --- | --- | --- |
@@ -614,6 +643,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [minerBlock](https://chromewebstore.google.com/detail/minerblock/dgcjdgkiclbfekoepomcjmifmgejhdga) | Blocks cryptocurrency miners all over the web. |
 | [Canvas Blocker](https://webextension.org/listing/canvas-fingerprint-blocker.html) | Prevent HTML canvas element from generating a unique identification key to protect user's privacy. |
 | [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) | Some web pages use intermediary pages before redirecting to a final page. This webextension tries to extract the final url from the intermediary url and goes there straight away if successful. |
+| [User Agent Switcher and Manager](https://webextension.org/listing/useragent-switcher.html) | The "User-Agent Switcher and Manager" extension enables you to modify your browser's User-Agent string, which web servers use to deliver content tailored to your browser type and operating system. This can result in different HTML content, styling, or JavaScript behavior. |
 
 ## Messengers
 ### Decentralize
