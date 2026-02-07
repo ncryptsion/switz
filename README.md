@@ -16,6 +16,7 @@
 - [Accounts Managers](#accounts-managers)
 - [File Sharing](#file-sharing)
 - [Online SMS](#online-sms)
+- [Router Firmware](#router-firmware)
 - [VOIP Clients](#voip-clients)
 - [Networks](#networks)
 - [VPN](#vpn)
@@ -30,6 +31,7 @@
 - [Translation](#translation)
 - [Office](#office)
 - [Forms](#forms)
+- [Block Lists](#block-lists)
 - [Link Shorteners](#link-shorteners)
 - [Photo Editors](#photo-editors)
 - [Video Editors](#video-editors)
@@ -222,6 +224,12 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Crypton](https://crypton.sh/) | A privacy-focused messaging/phone number platform where you rent a real phone number (physical SIM or eSIM) and send/receive SMS with a privacy emphasis and encryption, plus API access for developers. |
 | [VirtualSMS](https://virtualsim.net/) | A service offering remote access to real phone numbers (leased SIM cards) for receiving SMS mainly used for account verification and keeping your own number private. |
 
+## Router Firmware
+| Name | Description |
+| --- | --- |
+| [OpenWRT](https://openwrt.org/) | The OpenWrt Project is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management. |
+| [DD-WRT](https://dd-wrt.com/) | DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems. The main emphasis lies on providing the easiest possible handling while at the same time supporting a great number of functionalities within the framework of the respective hardware platform used. |
+
 ## VOIP Clients
 | Name | Description |
 | --- | --- |
@@ -256,6 +264,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | Name | Description | No-Logging |
 | --- | --- | --- |
 | [NextDNS](https://nextdns.io/) | NextDNS is a privacy-focused, customizable DNS service that offers advanced features such as content filtering, malware blocking, and ad-blocking. | <p align="center">✅</p> |
+| [ControlD](https://controld.com/) | Control D's DNS filtering software blocks unwanted websites, prevents malware, enforces web policies, and strengthens network security in minutes. | <p align="center">✅</p> |
 | [Quad9](https://quad9.net/) | Quad9 is a security-focused DNS provider that prioritizes privacy and protection from malicious websites. | <p align="center">✅ (anonymous)</p> |
 | [DNS Watch](https://dns.watch/) | DNS Watch is a free, privacy-conscious DNS service that emphasizes unfiltered, uncensored internet access. | <p align="center">✅</p> |
 | [Uncensored DNS](https://uncensoreddns.org/) | Uncensored DNS is a DNS provider that aims to provide unrestricted and uncensored internet access. | <p align="center">✅</p> |
@@ -353,6 +362,12 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Yakforms](https://yakforms.org/en/) | Open-source drag-and-drop form builder (successor to Framaforms’ underlying tech), letting you build, share, embed and analyze forms; supports self-hosting. |
 | [Input](https://getinput.co/) | No-code form builder focused on simple, clean forms that you can brand and customize, with self-host options and basic data collection. |
 | [Liberaforms](https://liberaforms.org/en) | Community-driven, free/libre online form platform promoting ethical data handling; often seen as an alternative to proprietary form services and increasingly tied to Framaforms’ ecosystem. |
+
+## Block Lists
+| Name | Description |
+| --- | --- |
+| [EasyList](https://easylist.to/) | The EasyList filter lists are sets of rules originally designed for Adblock (adblock.mozdev.org on WayBackMachine (archive.org)) that automatically remove unwanted content from the internet, including annoying adverts, bothersome banners and troublesome tracking. |
+| [No Google](https://github.com/nickspaargaren/no-google) | Completely block Google and its services. |
 
 ## Link Shorteners
 | Name | Description | Comments |
@@ -476,6 +491,7 @@ Any non-Windows operating systems.
 | [Greetooth](https://gitlab.com/nbergman/greentooth) | This app disables Bluetooth automatically when the last Bluetooth device has been disconnected. |
 | [Guardian Project](https://guardianproject.info/) | We are a global team who builds and designs easy to use secure apps, open-source. |
 | [NetGuard](https://netguard.me/) | A simple way to block access to the internet per application. |
+| [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) | Collects and analyzes mobile radio data to make you aware of your mobile network security and to warn you about threats like fake base stations (IMSI catchers), user tracking and over-the-air updates. |
 
 ## Platforms
 ### Links in Bio (Profile)
@@ -605,6 +621,8 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [Thunderbird](https://www.thunderbird.net/en-US/) | Mozilla Thunderbird is a email client, personal information manager, news client, RSS and chat client. |
 | [K-9 Mail](https://k9mail.app/) | K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email. |
+| [Roundcube](https://roundcube.net/) | Browser-based multilingual IMAP client with an application-like user interface. It provides full functionality you expect from an email client, including MIME support, address book, folder manipulation, message searching and spell checking. |
+| [FairEmail](https://email.faircode.eu/) | FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo! |
 
 ### Security
 | Name | Description |
