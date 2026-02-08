@@ -84,6 +84,7 @@
   - [Centralize](#centralize)
   - [P2P](#p2p)
 - [Utilities](#utilities-1)
+  - [Virtual Machines/Sandboxies](#virtual-machinessandboxies)
   - [Cloaking Images](#cloaking-images)
   - [Cloaking Text](#cloaking-text)
   - [Download Manager](#download-manager)
@@ -269,6 +270,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [DNS Watch](https://dns.watch/) | DNS Watch is a free, privacy-conscious DNS service that emphasizes unfiltered, uncensored internet access. | <p align="center">✅</p> |
 | [Uncensored DNS](https://uncensoreddns.org/) | Uncensored DNS is a DNS provider that aims to provide unrestricted and uncensored internet access. | <p align="center">✅</p> |
 | [AdGuard](https://adguard.com/en/adguard-dns/overview.html) | Open-source DNS provider, specialising in the blocking of ads, trackers and malicious domains. They have been independently audited and do not keep logs. | <p align="center">✅</p> |
+| [deSec](https://desec.io/) | deSEC is a free DNS hosting service, designed with security in mind. | <p align="center">✅</p> |
 
 ## Domain
 | Name | Description | Jurisdiction |
@@ -690,6 +692,15 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Jami](https://jami.net/) | Decentralized, open-source, fully encrypted messaging platform for text, voice, and video with no central server. | N/A |
 
 ## Utilities
+### Virtual Machines/Sandboxies
+| Name | Description |
+| --- | --- |
+| [QEMU](https://www.qemu.org/) | The Quick Emulator (QEMU) is a free and open-source emulator that uses dynamic binary translation to emulate a computer's processor; that is, it translates the emulated binary codes to an equivalent binary. |
+| [Oracle VirtualBox](https://www.virtualbox.org/) | VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm and with version 7.2 also for Windows/Arm), targeted at laptop, desktop, server and embedded use. |
+| [Sandboxie Plus](https://sandboxie-plus.com/) | Sandboxie is a sandbox-based isolation software for 32- and 64-bit Windows NT-based operating systems. It is being developed by David Xanatos since it became open source, before that it was developed by Sophos (which acquired it from Invincea, which acquired it earlier from the original author Ronen Tzur). |
+| [Xen Project](https://xenproject.org/) | The world's most secure, stable, and performant open source hypervisor. |
+| [UTM](https://mac.getutm.app/) | Securely run operating systems on your Mac. |
+
 ### Cloaking Images
 | Name | Description |
 | --- | --- |
