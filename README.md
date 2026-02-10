@@ -8,7 +8,6 @@
 # Contents
 - [Quotes](#quotes)
 - [Top Countries](#top-countries)
-- [Payments](#payments)
 - [2FA](#2fa)
 - [Encryptions](#encryptions)
 - [Search Engines](#search-engines)
@@ -37,6 +36,9 @@
 - [Video Editors](#video-editors)
 - [Recording](#recording)
 - [Video and Audio Conferencing](#video-and-audio-conferencing)
+- [Payments](#payments)
+  - [Ways](#ways)
+  - [Virtual Credit Cards (VCC)](#virtual-credit-cards-vcc)
 - [Remote Control](#remote-control)
   - [General](#general)
   - [RDP](#rdp)
@@ -143,12 +145,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 8. **Liechtenstein** - EEA-aligned, privacy-friendly banking, and low interference.
 9. **Ireland** - Key GDPR enforcer with massive fines on tech giants despite hosting them.
 1. **Netherlands** - High GDPR compliance focus and Uber-scale penalties.
-​
-## Payments
-| Name | Description |
-| --- | --- |
-| [Monero](https://www.getmonero.org/) | Monero (XMR) is a privacy-focused cryptocurrency launched in 2014 as a fork of Bytecoin. It ensures anonymity by default for every transaction using ring signatures, stealth addresses, and RingCT to hide sender, receiver, and amount details. |
-| [Cash](https://en.wikipedia.org/wiki/Cash) | Literal physical cash, just be wise on how you want to transact to someone. |
+
 
 ## 2FA
 | Name | Description |
@@ -384,6 +381,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Gimp](https://www.gimp.org/) | GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes. |
 | [Krita](https://krita.org/en/) | Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone. |
 | [Inkscape](https://inkscape.org/) | Whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery, Inkscape is for you! |
+| [Paint.net](https://www.getpaint.net/) | Paint.NET is image and photo editing software for PCs that run Windows. It features an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools. |
 
 ## Video Editors
 | Name | Description |
@@ -407,6 +405,20 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | An open-source video conferencing platform that allows secure, easy-to-use, and scalable video meetings without the need for an account. | N/A |
 | [Jam](https://github.com/jam-systems/jam) | An open-source audio communication tool, often used for team collaboration or group conversations, focusing on simplicity and ease of use. | N/A |
 | [Mumble](https://www.mumble.info/) | A low-latency, high-quality voice chat application, typically used by gamers and communities for group voice communication, with a focus on privacy. | N/A |
+
+## Payments
+### Ways
+| Name | Description |
+| --- | --- |
+| [Monero](https://www.getmonero.org/) | Monero (XMR) is a privacy-focused cryptocurrency launched in 2014 as a fork of Bytecoin. It ensures anonymity by default for every transaction using ring signatures, stealth addresses, and RingCT to hide sender, receiver, and amount details. |
+| [Cash](https://en.wikipedia.org/wiki/Cash) | Literal physical cash, just be wise on how you want to transact to someone. |
+
+### Virtual Credit Cards (VCC)
+| Name | Description |
+| --- | --- |
+| [Privacy](https://www.privacy.com/) | Privacy and security built into your payments. |
+| [MySudo](https://anonyome.com/individuals/mysudo/) | Keep your phone number, email, and top of wallet card safe. |
+| [Exactly](https://www.exactly.app/) | Turn your crypto into instant credit. Get your free Visa Signature Exa Credit Card and access fixed interest loans with the Exa App. |
 
 ## Remote Control
 ### General
