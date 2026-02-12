@@ -32,8 +32,10 @@
 - [Forms](#forms)
 - [Block Lists](#block-lists)
 - [Link Shorteners](#link-shorteners)
+- [Screenshot Tools](#screenshot-tools)
 - [Photo Editors](#photo-editors)
 - [Video Editors](#video-editors)
+- [3D Graphics](#3d-graphics)
 - [Recording](#recording)
 - [Video and Audio Conferencing](#video-and-audio-conferencing)
 - [Payments](#payments)
@@ -375,6 +377,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Tnyr](https://tnyr.me/) | A URL shortening service with a focus on privacy, offering anonymous and secure links that don’t track users. | N/A |
 | [UrlVanish](https://urlvanish.com/) | A privacy-focused URL shortening service that hides tracking data, ensuring that shortened URLs do not reveal any personal information about the user. | N/A |
 
+## Screenshot Tools
+| Name | Description |
+| --- | --- |
+| [Flameshot](https://flameshot.org/) | Powerful, yet simple to use open-source screenshot software. |
+| [ShareX](https://getsharex.com/) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. |
+| [Greenshot](https://getgreenshot.org/) | Greenshot is the most awesome tool for making screenshots you can get on your Windows PC. |
+
 ## Photo Editors
 | Name | Description |
 | --- | --- |
@@ -391,6 +400,14 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Olive Video Editor](https://github.com/olive-editor/olive) | Free open-source non-linear video editor. |
 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative. |
 | [Shotcut](https://www.shotcut.org/) | Shotcut is a free, open source, cross-platform video editor. |
+
+## 3D Graphics
+| Name | Description |
+| --- | --- |
+| [Blender](https://www.blender.org/) | Blender is a free and open-source 3D creation suite used for modeling, animation, simulation, rendering, compositing, and video editing. |
+| [Bforartists](https://www.bforartists.de/) | Bforartists is a complete 3D suite to create 3D content. It offers you the full 3D art pipeline to create game graphics, prerendered movies and stills. |
+| [Wings 3D](https://www.wings3d.com/) | Wings 3D is an advanced subdivision modeler that is both powerful and easy to use. |
+| [Blockbench](https://www.blockbench.net/) | A low-poly 3D model editor. |
 
 ## Recording
 | Name | Description | Comments |
