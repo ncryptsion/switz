@@ -17,6 +17,7 @@
 - [Online SMS](#online-sms)
 - [Router Firmware](#router-firmware)
 - [VOIP Clients](#voip-clients)
+- [PGP Managers](#pgp-managers)
 - [Networks](#networks)
 - [VPN](#vpn)
 - [DNS](#dns)
@@ -223,6 +224,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [MoneroSMS](https://monerosms.com/) | A service that lets you send and receive SMS using virtual phone numbers, you can top up credits (often in Monero) and manage numbers via web or CLI. |
 | [Crypton](https://crypton.sh/) | A privacy-focused messaging/phone number platform where you rent a real phone number (physical SIM or eSIM) and send/receive SMS with a privacy emphasis and encryption, plus API access for developers. |
 | [VirtualSMS](https://virtualsim.net/) | A service offering remote access to real phone numbers (leased SIM cards) for receiving SMS mainly used for account verification and keeping your own number private. |
+| [SMS Pool](https://www.smspool.net/) | Don't feel comfortable giving out your phone number? Protect your online identity by using our one-time-use non-VoIP phone numbers. |
 
 ## Router Firmware
 | Name | Description |
@@ -235,6 +237,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | --- | --- |
 | [Mumble](https://www.mumble.info/) | An open-source VoIP voice chat application originally designed for gaming. It provides low-latency, high-quality voice communication, uses a client-server model, and supports encrypted voice chat across platforms (Windows, macOS, Linux, Android, iOS). |
 | [Linphone](https://www.linphone.org/) | A free, open-source SIP-based softphone for VoIP calling, video calls, and instant messaging. It supports standard SIP communication, works across many platforms, and can integrate with IP-PBX or VoIP services for voice and video communication. |
+
+## PGP Managers
+| Name | Description |
+| --- | --- |
+| [Kleopatra](https://apps.kde.org/kleopatra/) | Kleopatra is an open-source certificate manager and graphical front-end for cryptographic services, primarily designed to handle OpenPGP and S/MIME (X.509) certificates. |
+| [Gpg4win](https://www.gpg4win.org/) | Gpg4win (GNU Privacy Guard for Windows) is an encryption software to sign and encrypt files and emails. |
+| [GnuPG](https://www.gnupg.org/) | GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories. GnuPG, also known as GPG, is a command line tool with features for easy integration with other applications. |
 
 ## Networks
 | Name | Description |
@@ -628,7 +637,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [BrowserLeaks](https://browserleaks.com/) | BrowserLeaks is a suite of tools that offers a range of tests to evaluate the security and privacy of your web browser. |
 | [Privacy](https://privacy.net/analyzer/) | What information can a website find out about you when you visit it? A lot more than you probably realize. |
 | [Privacy Tests](https://privacytests.org/) | Open-source tests of web browser privacy. |
-
+| [Am I FloCed](https://amifloced.org/) | Google is testing FLoC on Chrome users worldwide. Find out if you're one of them. |
 
 ## Email
 | Name | Description | Jurisdiction | Comments |
