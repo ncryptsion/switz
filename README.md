@@ -36,6 +36,7 @@
 - [Screenshot Tools](#screenshot-tools)
 - [Photo Editors](#photo-editors)
 - [Video Editors](#video-editors)
+- [News Readers](#news-readers)
 - [3D Graphics](#3d-graphics)
 - [Recording](#recording)
 - [Video and Audio Conferencing](#video-and-audio-conferencing)
@@ -409,6 +410,12 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Olive Video Editor](https://github.com/olive-editor/olive) | Free open-source non-linear video editor. |
 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative. |
 | [Shotcut](https://www.shotcut.org/) | Shotcut is a free, open source, cross-platform video editor. |
+
+## News Readers
+| Name | Description |
+| --- | --- |
+| [RSSOwl](https://www.rssowl.org/) | Organize, search, and read feeds. |
+| [Feedly](https://feedly.com/) | Offers a premium news aggregation experience, presenting news from chosen sources in a clean, modern interface. |
 
 ## 3D Graphics
 | Name | Description |
@@ -913,6 +920,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Peertube](https://joinpeertube.org/en/) | free, open-source decentralized video hosting network where anyone can run an instance (server), join federations, and share videos without a single central authority. |
 | [Odysee](https://odysee.com/) | A decentralized video platform built on the LBRY blockchain. Creators can upload, share, and even monetize videos with cryptocurrency, and content lives on a peer-to-peer network rather than centralized servers. |
 | [DTube](https://github.com/dtube/dtube) | A blockchain-based decentralized video sharing site (originally built on Steem + IPFS) that lets users upload and watch videos without central control. |
+| [BitChute](https://www.bitchute.com/) | BitChute is an alt-tech video hosting service launched by Ray Vahey in January 2017. It describes itself as offering freedom of speech, while the service is known for hosting far-right individuals and conspiracy. |
 
 **Frontends**
 | Name | Description |
@@ -937,6 +945,8 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [WriteFreely](https://writefreely.org/) | An open source platform for building a writing space on the web. |
 | [Plume](https://github.com/Plume-org/Plume) | Plume is a federated blogging engine, based on ActivityPub. It is written in Rust, with the Rocket framework, and Diesel to interact with the database. The front-end uses Ructe templates, WASM and SCSS. |
+| [Mataroa](https://mataroa.blog/) | Naked blogging platform, for minimalists. Just write. |
+| [Telegraph](https://telegra.ph/) | A quick, anonymous blogging platform by Telegram. It's designed for simplicity and speed, allowing for straightforward content publishing without registration. |
 
 ### Reddit
 | Name | Description |
