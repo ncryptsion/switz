@@ -64,6 +64,7 @@
   - [Whistleblowing](#whistleblowing)
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
+  - [Exchangers](#exchangers)
 - [Photo Storage](#photo-storage)
   - [Online](#online)
   - [Self-Hosted](#self-hosted)
@@ -443,8 +444,9 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 ### Ways
 | Name | Description |
 | --- | --- |
-| [Monero](https://www.getmonero.org/) | Monero (XMR) is a privacy-focused cryptocurrency launched in 2014 as a fork of Bytecoin. It ensures anonymity by default for every transaction using ring signatures, stealth addresses, and RingCT to hide sender, receiver, and amount details. |
 | [Cash](https://en.wikipedia.org/wiki/Cash) | Literal physical cash, just be wise on how you want to transact to someone. |
+| [Monero](https://www.getmonero.org/) | Monero (XMR) is a privacy-focused cryptocurrency launched in 2014 as a fork of Bytecoin. It ensures anonymity by default for every transaction using ring signatures, stealth addresses, and RingCT to hide sender, receiver, and amount details. |
+| [zCash](https://z.cash/) | The first cryptocurrency to develop zero-knowledge encryption for private peer-to-peer payments. Zcash is encrypted electronic cash. |
 
 ### Virtual Credit Cards (VCC)
 | Name | Description |
@@ -572,11 +574,21 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- | --- | --- |
 | [Trezor](https://trezor.io/) | A hardware wallet designed for secure storage of cryptocurrency private keys. Trezor provides cold storage for various cryptocurrencies, ensuring the safety of your assets by keeping them offline and away from potential online hacks. | ❄️ | The king. - NCryptsion |
 | [Ledger](https://www.ledger.com/) | Another popular hardware wallet for cryptocurrencies. Like Trezor, Ledger offers cold storage to keep your assets safe from online threats. | ❄️ | The best of best. - NCryptsion |
-| [Backpack](https://backpack.app/) | Backpack is a cryptocurrency wallet and Web3 browser with integrated tools for managing digital assets and interacting with decentralized applications (dApps). | 🔥 | N/A |
+| [Backpack](https://backpack.app/) | Backpack is a cryptocurrency wallet and Web3 browser with integrated tools for managing digital assets and interacting with decentralized applications (dApps). | 🔥 | It's pretty decent. - NCryptsion |
 | [MetaMask](https://metamask.io/) | A widely-used Ethereum-based crypto wallet and browser extension that lets users store and manage their Ether (ETH) and ERC-20 tokens. | 🔥 | The best hot-wallet ever. - NCryptsion |
 | [AlphaWallet](https://alphawallet.com/) | A mobile Ethereum wallet that provides users with the ability to store, manage, and transfer Ethereum and ERC-20 tokens.| 🔥 | N/A |
 | [Cake Wallet](https://cakewallet.com/) | A Monero (XMR) wallet focused on privacy and security. It allows users to store and manage Monero and its features align with the coin's privacy-centric design. | 🔥 | N/A |
 | [Rabby](https://rabby.io/) | Rabby is a browser extension and crypto wallet focused on supporting Ethereum and Ethereum-compatible chains. It integrates with decentralized finance (DeFi) protocols and supports multiple tokens. | 🔥 | N/A |
+| [Gem Wallet](https://gemwallet.com/) | Secure & Open-Source Crypto Wallet ... safely and effortlessly! We’ve built Gem Wallet as an open-source, user-friendly, and secure self-custody cryptocurrency wallet. | 🔥 | This one is nice, perhaps a smooth and clean version of Backpack. - NCryptsion |
+| [Sparrow Wallet](https://sparrowwallet.com/) | Sparrow is a Bitcoin wallet for those who value financial self sovereignty. Sparrow’s emphasis is on security, privacy and usability | 🔥 | N/A |
+
+### Exchangers
+| Name | Description |
+| --- | --- |
+| [RetoSwap](https://retoswap.com/) | Private, non-custodial P2P exchange for seamless crypto and fiat trading. Built on Haveno, Tor and Monero for maximum privacy and security. |
+| [RoboSats](https://robosats.org/) | P2P exchange bitcoin for national currencies. Robosats simplifies the peer-to-peer user experience. |
+| [Bisq](https://bisq.network/) | Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required. |
+| [BasicSwap](https://basicswapdex.com/) | Cross-chain trading exchange (DEX) peer-to-peer trading of cryptocurrencies like Bitcoin and Monero. It uses Particl's network, atomic swaps, and scriptless scripts for transactions without third-party involvement. |
 
 ## Photo Storage
 ### Online
@@ -904,6 +916,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Forgejo](https://forgejo.org/) | Free, open-source software forge that you can self-host to manage Git repositories, issue tracking, code reviews, wikis, CI/CD, and other development features. |
 | [GitLab](https://about.gitlab.com/) | A comprehensive DevOps and software development platform built around Git. |
 | [Radicle](https://radicle.xyz/) | A peer-to-peer, decentralized code collaboration stack built on Git that removes central servers from the equation. |
+| [Gitea](https://about.gitea.com/) | Great self-hosted option that brings teams and developers high-efficiency, but easy operations from planning to production. |
 
 ### Facebook/Instagram/Twitter
 | Name | Description |
